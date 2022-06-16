@@ -1,0 +1,3 @@
+2022-05-11 09:40:51.621 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-11 09:40:51.722 +00:00 [INF] Hosting environment: Development
+2022-05-11 09:40:51.725 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server

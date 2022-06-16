@@ -1,0 +1,5 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\wwwroot\" />
+  <ContentRoot BasePath="_content/MudBlazor" Path="C:\Users\kagouti.MOOV-AFRICA\.nuget\packages\mudblazor\5.0.14\build\..\staticwebassets\" />
+</StaticWebAssets>

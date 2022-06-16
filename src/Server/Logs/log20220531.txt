@@ -1,0 +1,5 @@
+2022-05-31 00:56:08.297 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-31 00:56:08.448 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-31 00:56:08.453 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-31 00:56:08.454 +00:00 [INF] Hosting environment: Development
+2022-05-31 00:56:08.455 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server

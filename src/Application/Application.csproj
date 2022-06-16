@@ -1,0 +1,67 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>MVWorkflows.Application</RootNamespace>
+    <AssemblyName>MVWorkflows.Application</AssemblyName>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\Workflows\TypeWorkflow.cs" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(TargetFramework)' == 'net6.0'">
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="FluentValidation" Version="10.4.0" />
+    <PackageReference Include="LazyCache" Version="2.4.0" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Features" Version="5.0.17" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.5" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.18" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(TargetFramework)' == 'net6.0'">
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+    <ProjectReference Include="..\Shared\Shared.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Features\Groupement\Commands\AddEdit\" />
+    <Folder Include="Features\Groupement\Commands\Delete\" />
+    <Folder Include="Features\Groupement\Queries\Export\" />
+    <Folder Include="Features\Groupement\Queries\GetAll\" />
+    <Folder Include="Features\Groupement\Queries\GetById\" />
+    <Folder Include="Features\TypeGroupement\Queries\GetById\" />
+    <Folder Include="Features\TypeWorkflow\Queries\" />
+    <Folder Include="Features\WorkflowInstanceActions\Queries\GetAll\" />
+    <Folder Include="Features\WorkflowInstanceActions\Queries\GetById\" />
+    <Folder Include="Resources\Features\Groupement\Queries\GetAll\" />
+    <Folder Include="Resources\Features\Groupement\Queries\GetById\" />
+    <Folder Include="Resources\Features\Poste\Commands\AddEdit\" />
+    <Folder Include="Resources\Features\Poste\Commands\Delete\" />
+    <Folder Include="Resources\Features\Poste\Queries\Export\" />
+    <Folder Include="Resources\Features\Poste\Queries\GetAll\" />
+    <Folder Include="Resources\Features\Poste\Queries\GetById\" />
+    <Folder Include="Resources\Features\TypeGroupement\Queries\GetAll\" />
+    <Folder Include="Resources\Features\TypeGroupement\Queries\GetById\" />
+    <Folder Include="Resources\Features\WorkflowInstanceActions\Queries\GetAll\" />
+    <Folder Include="Resources\Features\WorkflowInstanceActions\Queries\GetById\" />
+    <Folder Include="Resources\Features\WorkflowInstance\Queries\GetAll\" />
+    <Folder Include="Resources\Features\WorkflowInstance\Queries\GetById\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Resources\Features\Workflows\Queries\Export\ExportWorkflowsQueryHandler.en.resx.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ExportWorkflowsQueryHandler.en.resx.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Resources\Features\Workflows\Queries\Export\ExportWorkflowsQueryHandler.en.resx.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ExportWorkflowsQueryHandler.en.resx.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

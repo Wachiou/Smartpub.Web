@@ -1,0 +1,23 @@
+﻿<SatelliteAssembly>
+  <Assembly Name="obj\Debug\net5.0\de\MVWorkflows.Client.resources.dll" Culture="de" DestinationSubDirectory="de\" />
+  <Assembly Name="obj\Debug\net5.0\en\MVWorkflows.Client.resources.dll" Culture="en" DestinationSubDirectory="en\" />
+  <Assembly Name="obj\Debug\net5.0\es\MVWorkflows.Client.resources.dll" Culture="es" DestinationSubDirectory="es\" />
+  <Assembly Name="obj\Debug\net5.0\id\MVWorkflows.Client.resources.dll" Culture="id" DestinationSubDirectory="id\" />
+  <Assembly Name="obj\Debug\net5.0\it\MVWorkflows.Client.resources.dll" Culture="it" DestinationSubDirectory="it\" />
+  <Assembly Name="obj\Debug\net5.0\km\MVWorkflows.Client.resources.dll" Culture="km" DestinationSubDirectory="km\" />
+  <Assembly Name="obj\Debug\net5.0\ru\MVWorkflows.Client.resources.dll" Culture="ru" DestinationSubDirectory="ru\" />
+  <Assembly Name="obj\Debug\net5.0\sv\MVWorkflows.Client.resources.dll" Culture="sv" DestinationSubDirectory="sv\" />
+  <Assembly Name="obj\Debug\net5.0\fr\MVWorkflows.Client.resources.dll" Culture="fr" DestinationSubDirectory="fr\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\en\MVWorkflows.Client.Infrastructure.resources.dll" Culture="en" DestinationSubDirectory="en\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\en\MVWorkflows.Application.resources.dll" Culture="en" DestinationSubDirectory="en\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\km\MVWorkflows.Client.Infrastructure.resources.dll" Culture="km" DestinationSubDirectory="km\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\km\MVWorkflows.Application.resources.dll" Culture="km" DestinationSubDirectory="km\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\ru\MVWorkflows.Client.Infrastructure.resources.dll" Culture="ru" DestinationSubDirectory="ru\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\ru\MVWorkflows.Application.resources.dll" Culture="ru" DestinationSubDirectory="ru\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\de\MVWorkflows.Application.resources.dll" Culture="de" DestinationSubDirectory="de\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\es\MVWorkflows.Application.resources.dll" Culture="es" DestinationSubDirectory="es\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\fr\MVWorkflows.Application.resources.dll" Culture="fr" DestinationSubDirectory="fr\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\id\MVWorkflows.Application.resources.dll" Culture="id" DestinationSubDirectory="id\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\it\MVWorkflows.Application.resources.dll" Culture="it" DestinationSubDirectory="it\" />
+  <Assembly Name="C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\sv\MVWorkflows.Application.resources.dll" Culture="sv" DestinationSubDirectory="sv\" />
+</SatelliteAssembly>

@@ -1,0 +1,10 @@
+2022-04-30 12:10:34.591 +00:00 [INF] Seeded Administrator Role.
+2022-04-30 12:10:35.419 +00:00 [INF] Seeded Default SuperAdmin User.
+2022-04-30 12:10:36.170 +00:00 [INF] Seeded Basic Role.
+2022-04-30 12:10:36.195 +00:00 [INF] Seeded User with Basic Role.
+2022-04-30 12:10:36.400 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-30 12:10:36.401 +00:00 [INF] Hosting environment: Development
+2022-04-30 12:10:36.405 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-04-30 12:20:50.627 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-30 12:20:50.709 +00:00 [INF] Hosting environment: Development
+2022-04-30 12:20:50.712 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server

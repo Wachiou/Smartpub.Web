@@ -1,0 +1,111 @@
+2022-05-30 07:50:51.467 +00:00 [ERR] Failed executing DbCommand (171ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [HistoriqueAffectationPersonnels] (
+    [Id] int NOT NULL IDENTITY,
+    [PersonnelAffecteUserId] nvarchar(450) NULL,
+    [DateAction] datetime2 NOT NULL,
+    [DateEffetAffectation] datetime2 NOT NULL,
+    [PosteSourceId] int NOT NULL,
+    [PosteDestinationId] int NOT NULL,
+    [NoteAffectation] nvarchar(max) NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [CreatedOn] datetime2 NOT NULL,
+    [LastModifiedBy] nvarchar(max) NULL,
+    [LastModifiedOn] datetime2 NULL,
+    CONSTRAINT [PK_HistoriqueAffectationPersonnels] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_HistoriqueAffectationPersonnels_Postes_PosteDestinationId] FOREIGN KEY ([PosteDestinationId]) REFERENCES [Postes] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_HistoriqueAffectationPersonnels_Postes_PosteSourceId] FOREIGN KEY ([PosteSourceId]) REFERENCES [Postes] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_HistoriqueAffectationPersonnels_Users_PersonnelAffecteUserId] FOREIGN KEY ([PersonnelAffecteUserId]) REFERENCES [Identity].[Users] ([Id]) ON DELETE NO ACTION
+);
+2022-05-30 10:37:29.866 +00:00 [ERR] Failed executing DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [RH].[Groupement] (
+    [Id] int NOT NULL IDENTITY,
+    [NomGroupement] nvarchar(max) NULL,
+    [DescriptionGroupement] nvarchar(max) NULL,
+    [IntituleGroupement] nvarchar(max) NULL,
+    [IdTypeGroupement] int NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [CreatedOn] datetime2 NOT NULL,
+    [LastModifiedBy] nvarchar(max) NULL,
+    [LastModifiedOn] datetime2 NULL,
+    CONSTRAINT [PK_Groupement] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Groupement_TypeGroupement_IdTypeGroupement] FOREIGN KEY ([IdTypeGroupement]) REFERENCES [RH].[TypeGroupement] ([Id]) ON DELETE SET NULL
+);
+2022-05-30 12:28:28.011 +00:00 [ERR] Failed executing DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [RH].[Groupement] (
+    [Id] int NOT NULL IDENTITY,
+    [NomGroupement] nvarchar(max) NULL,
+    [DescriptionGroupement] nvarchar(max) NULL,
+    [IntituleGroupement] nvarchar(max) NULL,
+    [IdTypeGroupement] int NOT NULL,
+    [CreatedBy] nvarchar(max) NULL,
+    [CreatedOn] datetime2 NOT NULL,
+    [LastModifiedBy] nvarchar(max) NULL,
+    [LastModifiedOn] datetime2 NULL,
+    CONSTRAINT [PK_Groupement] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Groupement_TypeGroupement_IdTypeGroupement] FOREIGN KEY ([IdTypeGroupement]) REFERENCES [RH].[TypeGroupement] ([Id]) ON DELETE SET NULL
+);
+2022-05-30 13:26:53.754 +00:00 [INF] Seeded Default SuperAdmin User.
+2022-05-30 13:26:56.051 +00:00 [INF] Seeded User with Basic Role.
+2022-05-30 13:26:57.717 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-30 13:26:57.721 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-30 13:26:57.742 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 13:26:57.744 +00:00 [INF] Hosting environment: Development
+2022-05-30 13:26:57.745 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-05-30 16:14:00.854 +00:00 [WRN] Server inflpt004:931164:dd597701 was considered dead by other servers, restarting...
+2022-05-30 16:14:00.883 +00:00 [WRN] Server inflpt004:931164:dd597701 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+2022-05-30 16:37:55.730 +00:00 [INF] Seeded Administrator Role.
+2022-05-30 16:37:56.790 +00:00 [INF] Seeded Default SuperAdmin User.
+2022-05-30 16:37:58.392 +00:00 [INF] Seeded Basic Role.
+2022-05-30 16:37:58.419 +00:00 [INF] Seeded User with Basic Role.
+2022-05-30 16:37:58.962 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-30 16:37:58.966 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-30 16:37:58.971 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 16:37:58.971 +00:00 [INF] Hosting environment: Development
+2022-05-30 16:37:58.973 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-05-30 16:50:33.925 +00:00 [INF] Application is shutting down...
+2022-05-30 17:14:53.482 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-30 17:14:53.538 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-30 17:14:53.542 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 17:14:53.543 +00:00 [INF] Hosting environment: Development
+2022-05-30 17:14:53.544 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-05-30 17:15:09.087 +00:00 [INF] Application is shutting down...
+2022-05-30 17:17:08.329 +00:00 [INF] Seeded Administrator Role.
+2022-05-30 17:17:08.866 +00:00 [INF] Seeded Default SuperAdmin User.
+2022-05-30 17:17:12.030 +00:00 [INF] Seeded Basic Role.
+2022-05-30 17:17:12.125 +00:00 [INF] Seeded User with Basic Role.
+2022-05-30 17:17:12.823 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-30 17:17:12.828 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-30 17:17:12.833 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 17:17:12.834 +00:00 [INF] Hosting environment: Development
+2022-05-30 17:17:12.835 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-05-30 18:05:07.266 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-30 18:05:07.386 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-30 18:05:07.397 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 18:05:07.404 +00:00 [INF] Hosting environment: Development
+2022-05-30 18:05:07.407 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-05-30 18:11:46.846 +00:00 [INF] Application is shutting down...
+2022-05-30 18:13:37.427 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-30 18:13:37.556 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-30 18:13:37.580 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 18:13:37.589 +00:00 [INF] Hosting environment: Development
+2022-05-30 18:13:37.603 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-05-30 18:20:20.312 +00:00 [INF] Application is shutting down...
+2022-05-30 18:28:10.670 +00:00 [INF] Seeded Administrator Role.
+2022-05-30 18:28:11.174 +00:00 [INF] Seeded Default SuperAdmin User.
+2022-05-30 18:28:13.849 +00:00 [INF] Seeded Basic Role.
+2022-05-30 18:28:14.062 +00:00 [INF] Seeded User with Basic Role.
+2022-05-30 18:28:14.551 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-30 18:28:14.556 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-30 18:28:14.561 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 18:28:14.562 +00:00 [INF] Hosting environment: Development
+2022-05-30 18:28:14.563 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-05-30 18:34:34.338 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-30 18:34:34.403 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-30 18:34:34.408 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 18:34:34.408 +00:00 [INF] Hosting environment: Development
+2022-05-30 18:34:34.409 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-05-30 19:36:25.978 +00:00 [INF] Now listening on: https://localhost:5001
+2022-05-30 19:36:26.050 +00:00 [INF] Now listening on: http://localhost:5000
+2022-05-30 19:36:26.053 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-30 19:36:26.054 +00:00 [INF] Hosting environment: Development
+2022-05-30 19:36:26.055 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server

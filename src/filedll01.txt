@@ -1,0 +1,2893 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est 68A0-6272
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0
+
+03/06/2022  14:37           220ÿ672 MVWorkflows.Application.dll
+03/06/2022  14:36            13ÿ824 MVWorkflows.Domain.dll
+03/06/2022  14:36            27ÿ648 MVWorkflows.Shared.dll
+               3 fichier(s)          262ÿ144 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\de
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\en
+
+03/06/2022  14:37            27ÿ648 MVWorkflows.Application.resources.dll
+               1 fichier(s)           27ÿ648 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\es
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\fr
+
+03/06/2022  14:37            19ÿ456 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ456 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\id
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\it
+
+03/06/2022  14:37            19ÿ968 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ968 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\km
+
+03/06/2022  14:37            22ÿ528 MVWorkflows.Application.resources.dll
+               1 fichier(s)           22ÿ528 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\ru
+
+03/06/2022  14:37            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net5.0\sv
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0
+
+08/06/2022  08:41           252ÿ416 MVWorkflows.Application.dll
+08/06/2022  08:41            13ÿ824 MVWorkflows.Domain.dll
+08/06/2022  08:41            27ÿ648 MVWorkflows.Shared.dll
+               3 fichier(s)          293ÿ888 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0\de
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0\en
+
+08/06/2022  08:41            33ÿ280 MVWorkflows.Application.resources.dll
+               1 fichier(s)           33ÿ280 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0\es
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0\fr
+
+08/06/2022  08:42            25ÿ088 MVWorkflows.Application.resources.dll
+               1 fichier(s)           25ÿ088 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0\id
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0\it
+
+08/06/2022  08:41            19ÿ968 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ968 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0\km
+
+08/06/2022  08:41            22ÿ528 MVWorkflows.Application.resources.dll
+               1 fichier(s)           22ÿ528 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0\ru
+
+08/06/2022  08:42            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\Debug\net6.0\sv
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0
+
+08/06/2022  15:15           251ÿ904 MVWorkflows.Application.dll
+08/06/2022  14:51            13ÿ312 MVWorkflows.Domain.dll
+08/06/2022  14:51            27ÿ648 MVWorkflows.Shared.dll
+               3 fichier(s)          292ÿ864 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0\de
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0\en
+
+08/06/2022  15:15            32ÿ768 MVWorkflows.Application.resources.dll
+               1 fichier(s)           32ÿ768 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0\es
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0\fr
+
+08/06/2022  15:15            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0\id
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0\it
+
+08/06/2022  15:15            18ÿ944 MVWorkflows.Application.resources.dll
+               1 fichier(s)           18ÿ944 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0\km
+
+08/06/2022  15:15            22ÿ016 MVWorkflows.Application.resources.dll
+               1 fichier(s)           22ÿ016 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0\ru
+
+08/06/2022  15:15            23ÿ552 MVWorkflows.Application.resources.dll
+               1 fichier(s)           23ÿ552 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\bin\x64\Debug\net6.0\sv
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0
+
+03/06/2022  14:37           220ÿ672 MVWorkflows.Application.dll
+               1 fichier(s)          220ÿ672 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\de
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\en
+
+03/06/2022  14:37            27ÿ648 MVWorkflows.Application.resources.dll
+               1 fichier(s)           27ÿ648 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\es
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\fr
+
+03/06/2022  14:37            19ÿ456 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ456 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\id
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\it
+
+03/06/2022  14:37            19ÿ968 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ968 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\km
+
+03/06/2022  14:37            22ÿ528 MVWorkflows.Application.resources.dll
+               1 fichier(s)           22ÿ528 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\ref
+
+03/06/2022  14:37            92ÿ672 MVWorkflows.Application.dll
+               1 fichier(s)           92ÿ672 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\refint
+
+03/06/2022  14:37            92ÿ672 MVWorkflows.Application.dll
+               1 fichier(s)           92ÿ672 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\ru
+
+03/06/2022  14:37            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\sv
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net5.0\TempPE
+
+28/05/2022  19:12             4ÿ096 Resources.Features.Workflows.Queries.Export.ExportWorkflowsQueryHandler.en.resx.Designer.cs.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0
+
+08/06/2022  08:41           252ÿ416 MVWorkflows.Application.dll
+               1 fichier(s)          252ÿ416 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\de
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\en
+
+08/06/2022  08:41            33ÿ280 MVWorkflows.Application.resources.dll
+               1 fichier(s)           33ÿ280 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\es
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\fr
+
+08/06/2022  08:42            25ÿ088 MVWorkflows.Application.resources.dll
+               1 fichier(s)           25ÿ088 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\id
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\it
+
+08/06/2022  08:41            19ÿ968 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ968 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\km
+
+08/06/2022  08:41            22ÿ528 MVWorkflows.Application.resources.dll
+               1 fichier(s)           22ÿ528 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\ref
+
+08/06/2022  08:41           102ÿ912 MVWorkflows.Application.dll
+               1 fichier(s)          102ÿ912 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\refint
+
+08/06/2022  08:41           102ÿ912 MVWorkflows.Application.dll
+               1 fichier(s)          102ÿ912 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\ru
+
+08/06/2022  08:42            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\sv
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\Debug\net6.0\TempPE
+
+06/06/2022  13:50             4ÿ096 Resources.Features.Workflows.Queries.Export.ExportWorkflowsQueryHandler.en.resx.Designer.cs.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0
+
+08/06/2022  15:15           251ÿ904 MVWorkflows.Application.dll
+               1 fichier(s)          251ÿ904 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\de
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\en
+
+08/06/2022  15:15            32ÿ768 MVWorkflows.Application.resources.dll
+               1 fichier(s)           32ÿ768 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\es
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\fr
+
+08/06/2022  15:15            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\id
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\it
+
+08/06/2022  15:15            18ÿ944 MVWorkflows.Application.resources.dll
+               1 fichier(s)           18ÿ944 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\km
+
+08/06/2022  15:15            22ÿ016 MVWorkflows.Application.resources.dll
+               1 fichier(s)           22ÿ016 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\ref
+
+08/06/2022  14:51           101ÿ888 MVWorkflows.Application.dll
+               1 fichier(s)          101ÿ888 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\refint
+
+08/06/2022  15:15           101ÿ888 MVWorkflows.Application.dll
+               1 fichier(s)          101ÿ888 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\ru
+
+08/06/2022  15:15            23ÿ552 MVWorkflows.Application.resources.dll
+               1 fichier(s)           23ÿ552 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Application\obj\x64\Debug\net6.0\sv
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0
+
+02/06/2022  13:58           868ÿ864 MVWorkflows.Client.dll
+               1 fichier(s)          868ÿ864 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\de
+
+02/06/2022  13:58            22ÿ016 MVWorkflows.Client.resources.dll
+               1 fichier(s)           22ÿ016 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\en
+
+02/06/2022  13:58            45ÿ056 MVWorkflows.Client.resources.dll
+               1 fichier(s)           45ÿ056 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\es
+
+02/06/2022  13:58            25ÿ600 MVWorkflows.Client.resources.dll
+               1 fichier(s)           25ÿ600 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\fr
+
+02/06/2022  13:58            20ÿ992 MVWorkflows.Client.resources.dll
+               1 fichier(s)           20ÿ992 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\id
+
+02/06/2022  13:58            33ÿ280 MVWorkflows.Client.resources.dll
+               1 fichier(s)           33ÿ280 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\it
+
+02/06/2022  13:58            34ÿ304 MVWorkflows.Client.resources.dll
+               1 fichier(s)           34ÿ304 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\km
+
+02/06/2022  13:58            41ÿ472 MVWorkflows.Client.resources.dll
+               1 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\ref
+
+02/06/2022  13:47            71ÿ680 MVWorkflows.Client.dll
+               1 fichier(s)           71ÿ680 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\ru
+
+02/06/2022  13:58            48ÿ128 MVWorkflows.Client.resources.dll
+               1 fichier(s)           48ÿ128 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\sv
+
+02/06/2022  13:58            36ÿ352 MVWorkflows.Client.resources.dll
+               1 fichier(s)           36ÿ352 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework
+
+16/10/2020  15:36           286ÿ720 AutoMapper.dll
+05/02/2021  14:28            12ÿ800 AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+09/06/2021  15:35            14ÿ336 Blazored.FluentValidation.dll
+13/06/2021  13:30            23ÿ040 Blazored.LocalStorage.dll
+30/04/2021  11:19            73ÿ728 Bunit.Core.dll
+03/06/2021  10:01           427ÿ520 FluentValidation.dll
+15/03/2021  19:28            23ÿ552 LazyCache.dll
+08/10/2020  15:28            33ÿ280 MediatR.dll
+08/10/2020  17:35            16ÿ384 MediatR.Extensions.Microsoft.DependencyInjection.dll
+04/01/2020  08:13            29ÿ048 Microsoft.AspNetCore.Authentication.Abstractions.dll
+04/01/2020  08:13            47ÿ992 Microsoft.AspNetCore.Authentication.Cookies.dll
+04/01/2020  08:13            38ÿ264 Microsoft.AspNetCore.Authentication.Core.dll
+04/01/2020  08:13            62ÿ840 Microsoft.AspNetCore.Authentication.dll
+13/05/2021  21:02            43ÿ920 Microsoft.AspNetCore.Authorization.dll
+13/05/2021  21:03            28ÿ048 Microsoft.AspNetCore.Components.Authorization.dll
+13/05/2021  21:02           180ÿ088 Microsoft.AspNetCore.Components.dll
+13/05/2021  21:03            31ÿ120 Microsoft.AspNetCore.Components.Forms.dll
+13/05/2021  21:03            98ÿ680 Microsoft.AspNetCore.Components.Web.dll
+13/05/2021  21:03            67ÿ960 Microsoft.AspNetCore.Components.WebAssembly.dll
+13/05/2021  21:03            41ÿ360 Microsoft.AspNetCore.Connections.Abstractions.dll
+13/05/2021  21:02            41ÿ872 Microsoft.AspNetCore.Cryptography.Internal.dll
+13/05/2021  21:02            21ÿ904 Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+04/01/2020  08:09            23ÿ416 Microsoft.AspNetCore.DataProtection.Abstractions.dll
+04/01/2020  08:09           153ÿ976 Microsoft.AspNetCore.DataProtection.dll
+04/01/2020  08:10            22ÿ904 Microsoft.AspNetCore.Hosting.Abstractions.dll
+04/01/2020  08:10            15ÿ224 Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+04/01/2020  08:10            76ÿ152 Microsoft.AspNetCore.Http.Abstractions.dll
+13/05/2021  21:03            96ÿ656 Microsoft.AspNetCore.Http.Connections.Client.dll
+13/05/2021  21:03            27ÿ512 Microsoft.AspNetCore.Http.Connections.Common.dll
+04/01/2020  08:10            82ÿ296 Microsoft.AspNetCore.Http.dll
+04/01/2020  08:10            38ÿ776 Microsoft.AspNetCore.Http.Extensions.dll
+13/05/2021  21:02            32ÿ120 Microsoft.AspNetCore.Http.Features.dll
+04/01/2020  08:10            79ÿ224 Microsoft.AspNetCore.Identity.dll
+13/05/2021  21:02            15ÿ248 Microsoft.AspNetCore.Metadata.dll
+13/05/2021  21:03           145ÿ800 Microsoft.AspNetCore.SignalR.Client.Core.dll
+13/05/2021  21:03            18ÿ296 Microsoft.AspNetCore.SignalR.Client.dll
+13/05/2021  21:03            38ÿ280 Microsoft.AspNetCore.SignalR.Common.dll
+13/05/2021  21:03            34ÿ168 Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+12/11/2018  17:29            66ÿ424 Microsoft.AspNetCore.WebUtilities.dll
+17/03/2022  18:05           303ÿ528 Microsoft.CSharp.dll
+13/05/2021  18:31            28ÿ536 Microsoft.EntityFrameworkCore.Abstractions.dll
+13/05/2021  18:31         1ÿ833ÿ872 Microsoft.EntityFrameworkCore.dll
+19/10/2020  18:48            26ÿ504 Microsoft.Extensions.Caching.Abstractions.dll
+19/10/2020  18:48            32ÿ648 Microsoft.Extensions.Caching.Memory.dll
+19/10/2020  18:48            20ÿ360 Microsoft.Extensions.Configuration.Abstractions.dll
+19/10/2020  18:48            28ÿ040 Microsoft.Extensions.Configuration.Binder.dll
+19/10/2020  18:48            30ÿ600 Microsoft.Extensions.Configuration.dll
+19/10/2020  18:50            25ÿ480 Microsoft.Extensions.Configuration.FileExtensions.dll
+19/10/2020  18:51            24ÿ960 Microsoft.Extensions.Configuration.Json.dll
+19/10/2020  18:48            44ÿ416 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+26/11/2020  01:59            74ÿ120 Microsoft.Extensions.DependencyInjection.dll
+19/10/2020  18:48            16ÿ776 Microsoft.Extensions.FileProviders.Abstractions.dll
+19/10/2020  18:49            35ÿ720 Microsoft.Extensions.FileProviders.Physical.dll
+19/10/2020  18:48            39ÿ304 Microsoft.Extensions.FileSystemGlobbing.dll
+04/01/2020  08:11            22ÿ904 Microsoft.Extensions.Hosting.Abstractions.dll
+19/10/2020  18:49            62ÿ856 Microsoft.Extensions.Http.dll
+30/11/2020  15:11            25ÿ992 Microsoft.Extensions.Http.Polly.dll
+13/05/2021  21:02           166ÿ776 Microsoft.Extensions.Identity.Core.dll
+13/05/2021  21:03            40ÿ824 Microsoft.Extensions.Identity.Stores.dll
+13/05/2021  21:02            18ÿ296 Microsoft.Extensions.Localization.Abstractions.dll
+13/05/2021  21:03            30ÿ072 Microsoft.Extensions.Localization.dll
+19/10/2020  18:48            52ÿ616 Microsoft.Extensions.Logging.Abstractions.dll
+19/10/2020  18:53            42ÿ376 Microsoft.Extensions.Logging.dll
+04/01/2020  08:12            19ÿ520 Microsoft.Extensions.ObjectPool.dll
+19/10/2020  18:48            54ÿ664 Microsoft.Extensions.Options.dll
+16/03/2021  22:42            39ÿ304 Microsoft.Extensions.Primitives.dll
+04/01/2020  08:12            19ÿ832 Microsoft.Extensions.WebEncoders.dll
+13/05/2021  21:02            51ÿ592 Microsoft.JSInterop.dll
+13/05/2021  21:02            18ÿ312 Microsoft.JSInterop.WebAssembly.dll
+04/01/2020  08:11            74ÿ616 Microsoft.Net.Http.Headers.dll
+17/03/2022  18:10           419ÿ752 Microsoft.VisualBasic.Core.dll
+17/03/2022  18:05            17ÿ832 Microsoft.VisualBasic.dll
+17/03/2022  18:05            18ÿ344 Microsoft.Win32.Primitives.dll
+17/03/2022  18:07            36ÿ272 Microsoft.Win32.Registry.dll
+17/03/2022  18:12            57ÿ776 mscorlib.dll
+21/06/2021  14:19         4ÿ357ÿ632 MudBlazor.dll
+02/06/2022  13:47           220ÿ672 MVWorkflows.Application.dll
+02/06/2022  13:58           868ÿ864 MVWorkflows.Client.dll
+02/06/2022  13:47           112ÿ128 MVWorkflows.Client.Infrastructure.dll
+02/06/2022  13:47            13ÿ824 MVWorkflows.Domain.dll
+02/06/2022  13:47            27ÿ648 MVWorkflows.Shared.dll
+17/03/2022  18:05           100ÿ776 netstandard.dll
+17/03/2021  20:03           695ÿ336 Newtonsoft.Json.dll
+13/03/2019  19:14           266ÿ752 Polly.dll
+31/03/2019  15:06             6ÿ144 Polly.Extensions.Http.dll
+17/03/2022  18:06            15ÿ280 System.AppContext.dll
+17/03/2022  18:05            15ÿ272 System.Buffers.dll
+17/03/2022  18:07            86ÿ440 System.Collections.Concurrent.dll
+17/03/2022  18:06            95ÿ144 System.Collections.dll
+17/03/2022  18:05           186ÿ792 System.Collections.Immutable.dll
+17/03/2022  18:05            47ÿ536 System.Collections.NonGeneric.dll
+17/03/2022  18:05            46ÿ000 System.Collections.Specialized.dll
+17/03/2022  18:05            91ÿ560 System.ComponentModel.Annotations.dll
+17/03/2022  18:05            17ÿ296 System.ComponentModel.DataAnnotations.dll
+17/03/2022  18:05            16ÿ808 System.ComponentModel.dll
+17/03/2022  18:05            26ÿ512 System.ComponentModel.EventBasedAsync.dll
+17/03/2022  18:05            37ÿ288 System.ComponentModel.Primitives.dll
+17/03/2022  18:05           270ÿ224 System.ComponentModel.TypeConverter.dll
+17/03/2022  18:05            19ÿ376 System.Configuration.dll
+17/03/2022  18:05            51ÿ112 System.Console.dll
+17/03/2022  18:05            23ÿ952 System.Core.dll
+17/03/2022  18:08           979ÿ344 System.Data.Common.dll
+17/03/2022  18:05            15ÿ272 System.Data.DataSetExtensions.dll
+17/03/2022  18:12            24ÿ488 System.Data.dll
+17/03/2022  18:05            15ÿ792 System.Diagnostics.Contracts.dll
+17/03/2022  18:06            15ÿ760 System.Diagnostics.Debug.dll
+17/03/2022  18:05            79ÿ792 System.Diagnostics.DiagnosticSource.dll
+17/03/2022  18:05            19ÿ888 System.Diagnostics.FileVersionInfo.dll
+17/03/2022  18:09            41ÿ904 System.Diagnostics.Process.dll
+17/03/2022  18:08            26ÿ512 System.Diagnostics.StackTrace.dll
+17/03/2022  18:06            31ÿ152 System.Diagnostics.TextWriterTraceListener.dll
+17/03/2022  18:06            15ÿ248 System.Diagnostics.Tools.dll
+17/03/2022  18:08            53ÿ672 System.Diagnostics.TraceSource.dll
+17/03/2022  18:06            16ÿ272 System.Diagnostics.Tracing.dll
+17/03/2022  18:12            50ÿ064 System.dll
+17/03/2022  18:05            20ÿ912 System.Drawing.dll
+17/03/2022  18:06            60ÿ304 System.Drawing.Primitives.dll
+17/03/2022  18:06            16ÿ296 System.Dynamic.Runtime.dll
+17/03/2022  18:06            79ÿ792 System.Formats.Asn1.dll
+17/03/2022  18:06            15ÿ792 System.Globalization.Calendars.dll
+17/03/2022  18:07            15ÿ784 System.Globalization.dll
+17/03/2022  18:06            15ÿ280 System.Globalization.Extensions.dll
+17/03/2022  18:07            22ÿ928 System.IO.Compression.Brotli.dll
+17/03/2022  18:06           102ÿ832 System.IO.Compression.dll
+17/03/2022  18:05            15ÿ760 System.IO.Compression.FileSystem.dll
+17/03/2022  18:06            24ÿ464 System.IO.Compression.ZipFile.dll
+17/03/2022  18:06            15ÿ760 System.IO.dll
+17/03/2022  18:06            26ÿ032 System.IO.FileSystem.AccessControl.dll
+17/03/2022  18:06            91ÿ048 System.IO.FileSystem.dll
+17/03/2022  18:06            22ÿ928 System.IO.FileSystem.DriveInfo.dll
+17/03/2022  18:06            15ÿ280 System.IO.FileSystem.Primitives.dll
+17/03/2022  18:07            26ÿ512 System.IO.FileSystem.Watcher.dll
+17/03/2022  18:06            28ÿ080 System.IO.IsolatedStorage.dll
+17/03/2022  18:06            43ÿ408 System.IO.MemoryMappedFiles.dll
+26/11/2020  02:01            67ÿ464 System.IO.Pipelines.dll
+17/03/2022  18:09            21ÿ392 System.IO.Pipes.AccessControl.dll
+17/03/2022  18:07            31ÿ656 System.IO.Pipes.dll
+17/03/2022  18:06            15ÿ280 System.IO.UnmanagedMemoryStream.dll
+17/03/2022  18:07           142ÿ256 System.Linq.dll
+31/05/2021  07:33           150ÿ016 System.Linq.Dynamic.Core.dll
+17/03/2022  18:06           561ÿ040 System.Linq.Expressions.dll
+17/03/2022  18:06           225ÿ680 System.Linq.Parallel.dll
+17/03/2022  18:06            79ÿ248 System.Linq.Queryable.dll
+17/03/2022  18:07            59ÿ304 System.Memory.dll
+17/03/2022  18:05            17ÿ840 System.Net.dll
+17/03/2022  18:07           268ÿ176 System.Net.Http.dll
+17/03/2022  18:07            31ÿ152 System.Net.Http.Json.dll
+17/03/2022  18:09            40ÿ368 System.Net.HttpListener.dll
+17/03/2022  18:07           103ÿ848 System.Net.Mail.dll
+17/03/2022  18:07            21ÿ392 System.Net.NameResolution.dll
+17/03/2022  18:07            36ÿ240 System.Net.NetworkInformation.dll
+17/03/2022  18:07            22ÿ960 System.Net.Ping.dll
+17/03/2022  18:07            95ÿ664 System.Net.Primitives.dll
+17/03/2022  18:07            46ÿ480 System.Net.Requests.dll
+17/03/2022  18:07            64ÿ424 System.Net.Security.dll
+17/03/2022  18:07            26ÿ032 System.Net.ServicePoint.dll
+17/03/2022  18:07            54ÿ160 System.Net.Sockets.dll
+17/03/2022  18:07            30ÿ632 System.Net.WebClient.dll
+17/03/2022  18:07            33ÿ704 System.Net.WebHeaderCollection.dll
+17/03/2022  18:07            20ÿ904 System.Net.WebProxy.dll
+17/03/2022  18:08            43ÿ952 System.Net.WebSockets.Client.dll
+17/03/2022  18:07            65ÿ456 System.Net.WebSockets.dll
+17/03/2022  18:05            15ÿ784 System.Numerics.dll
+17/03/2022  18:09            15ÿ280 System.Numerics.Vectors.dll
+17/03/2022  18:07            48ÿ040 System.ObjectModel.dll
+17/03/2022  18:01         3ÿ102ÿ632 System.Private.CoreLib.dll
+17/03/2022  18:08           778ÿ128 System.Private.DataContractSerialization.dll
+17/03/2022  18:07            46ÿ000 System.Private.Runtime.InteropServices.JavaScript.dll
+17/03/2022  18:06            99ÿ760 System.Private.Uri.dll
+17/03/2022  18:08         3ÿ083ÿ176 System.Private.Xml.dll
+17/03/2022  18:09           153ÿ512 System.Private.Xml.Linq.dll
+17/03/2022  18:08            37ÿ296 System.Reflection.DispatchProxy.dll
+17/03/2022  18:09            16ÿ304 System.Reflection.dll
+17/03/2022  18:09            15ÿ792 System.Reflection.Emit.dll
+17/03/2022  18:08            15ÿ792 System.Reflection.Emit.ILGeneration.dll
+17/03/2022  18:08            15ÿ248 System.Reflection.Emit.Lightweight.dll
+17/03/2022  18:08            15ÿ248 System.Reflection.Extensions.dll
+17/03/2022  18:06           453ÿ544 System.Reflection.Metadata.dll
+17/03/2022  18:08            15ÿ792 System.Reflection.Primitives.dll
+17/03/2022  18:09            23ÿ472 System.Reflection.TypeExtensions.dll
+17/03/2022  18:08            15ÿ248 System.Resources.Reader.dll
+17/03/2022  18:09            15ÿ760 System.Resources.ResourceManager.dll
+17/03/2022  18:08            27ÿ056 System.Resources.Writer.dll
+17/03/2022  18:08            16ÿ304 System.Runtime.CompilerServices.Unsafe.dll
+17/03/2022  18:08            17ÿ808 System.Runtime.CompilerServices.VisualC.dll
+17/03/2022  18:06            39ÿ312 System.Runtime.dll
+17/03/2022  18:07            17ÿ808 System.Runtime.Extensions.dll
+17/03/2022  18:08            15ÿ248 System.Runtime.Handles.dll
+17/03/2022  18:08            36ÿ240 System.Runtime.InteropServices.dll
+17/03/2022  18:08            20ÿ368 System.Runtime.InteropServices.RuntimeInformation.dll
+17/03/2022  18:09            16ÿ296 System.Runtime.Intrinsics.dll
+17/03/2022  18:09            15ÿ248 System.Runtime.Loader.dll
+17/03/2022  18:08            75ÿ664 System.Runtime.Numerics.dll
+17/03/2022  18:05            17ÿ296 System.Runtime.Serialization.dll
+17/03/2022  18:09            62ÿ864 System.Runtime.Serialization.Formatters.dll
+17/03/2022  18:09            15ÿ760 System.Runtime.Serialization.Json.dll
+17/03/2022  18:08            22ÿ416 System.Runtime.Serialization.Primitives.dll
+17/03/2022  18:10            16ÿ272 System.Runtime.Serialization.Xml.dll
+17/03/2022  18:06            43ÿ408 System.Security.AccessControl.dll
+17/03/2022  18:08            51ÿ600 System.Security.Claims.dll
+17/03/2022  18:09            81ÿ296 System.Security.Cryptography.Algorithms.dll
+17/03/2022  18:10            41ÿ360 System.Security.Cryptography.Cng.dll
+17/03/2022  18:09            32ÿ656 System.Security.Cryptography.Csp.dll
+17/03/2022  18:09            26ÿ512 System.Security.Cryptography.Encoding.dll
+17/03/2022  18:10            27ÿ024 System.Security.Cryptography.OpenSsl.dll
+04/01/2020  08:11           186ÿ504 System.Security.Cryptography.Pkcs.dll
+17/03/2022  18:09            56ÿ208 System.Security.Cryptography.Primitives.dll
+17/03/2022  18:09            58ÿ768 System.Security.Cryptography.X509Certificates.dll
+04/01/2020  08:13           167ÿ568 System.Security.Cryptography.Xml.dll
+17/03/2022  18:05            18ÿ320 System.Security.dll
+04/01/2020  08:13            96ÿ400 System.Security.Permissions.dll
+17/03/2022  18:09            15ÿ248 System.Security.Principal.dll
+17/03/2022  18:05            31ÿ632 System.Security.Principal.Windows.dll
+17/03/2022  18:09            15ÿ248 System.Security.SecureString.dll
+17/03/2022  18:05            16ÿ808 System.ServiceModel.Web.dll
+17/03/2022  18:05            16ÿ272 System.ServiceProcess.dll
+17/03/2022  18:09           738ÿ704 System.Text.Encoding.CodePages.dll
+17/03/2022  18:09            15ÿ760 System.Text.Encoding.dll
+17/03/2022  18:09            15ÿ248 System.Text.Encoding.Extensions.dll
+17/03/2022  18:09            68ÿ528 System.Text.Encodings.Web.dll
+17/03/2022  18:09           334ÿ248 System.Text.Json.dll
+17/03/2022  18:09           190ÿ352 System.Text.RegularExpressions.dll
+17/03/2022  18:09            51ÿ112 System.Threading.Channels.dll
+17/03/2022  18:06            44ÿ944 System.Threading.dll
+17/03/2022  18:10            15ÿ248 System.Threading.Overlapped.dll
+17/03/2022  18:09           170ÿ896 System.Threading.Tasks.Dataflow.dll
+17/03/2022  18:10            16ÿ784 System.Threading.Tasks.dll
+17/03/2022  18:10            15ÿ784 System.Threading.Tasks.Extensions.dll
+17/03/2022  18:09            52ÿ112 System.Threading.Tasks.Parallel.dll
+17/03/2022  18:10            15ÿ760 System.Threading.Thread.dll
+17/03/2022  18:10            15ÿ248 System.Threading.ThreadPool.dll
+17/03/2022  18:10            15ÿ248 System.Threading.Timer.dll
+17/03/2022  18:05            16ÿ784 System.Transactions.dll
+17/03/2022  18:09           153ÿ520 System.Transactions.Local.dll
+17/03/2022  18:09            15ÿ280 System.ValueTuple.dll
+17/03/2022  18:05            15ÿ760 System.Web.dll
+17/03/2022  18:09            27ÿ568 System.Web.HttpUtility.dll
+17/03/2022  18:05            16ÿ272 System.Windows.dll
+17/03/2022  18:12            23ÿ952 System.Xml.dll
+17/03/2022  18:05            16ÿ272 System.Xml.Linq.dll
+17/03/2022  18:10            21ÿ904 System.Xml.ReaderWriter.dll
+17/03/2022  18:05            16ÿ272 System.Xml.Serialization.dll
+17/03/2022  18:10            15ÿ760 System.Xml.XDocument.dll
+17/03/2022  18:10            15ÿ760 System.Xml.XmlDocument.dll
+17/03/2022  18:10            17ÿ808 System.Xml.XmlSerializer.dll
+17/03/2022  18:10            15ÿ760 System.Xml.XPath.dll
+17/03/2022  18:10            16ÿ272 System.Xml.XPath.XDocument.dll
+10/11/2020  09:34            16ÿ896 Toolbelt.Blazor.HttpClientInterceptor.dll
+17/03/2022  18:05            16ÿ784 WindowsBase.dll
+             249 fichier(s)       30ÿ214ÿ960 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework\de
+
+02/06/2022  13:47            16ÿ384 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            22ÿ016 MVWorkflows.Client.resources.dll
+               2 fichier(s)           38ÿ400 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework\en
+
+02/06/2022  13:47            27ÿ648 MVWorkflows.Application.resources.dll
+02/06/2022  13:47             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+02/06/2022  13:58            45ÿ056 MVWorkflows.Client.resources.dll
+               3 fichier(s)           77ÿ824 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework\es
+
+02/06/2022  13:47            16ÿ384 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            25ÿ600 MVWorkflows.Client.resources.dll
+               2 fichier(s)           41ÿ984 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework\fr
+
+02/06/2022  13:47            19ÿ456 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            20ÿ992 MVWorkflows.Client.resources.dll
+               2 fichier(s)           40ÿ448 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework\id
+
+02/06/2022  13:47            16ÿ384 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            33ÿ280 MVWorkflows.Client.resources.dll
+               2 fichier(s)           49ÿ664 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework\it
+
+02/06/2022  13:47            19ÿ968 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            34ÿ304 MVWorkflows.Client.resources.dll
+               2 fichier(s)           54ÿ272 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework\km
+
+02/06/2022  13:47            22ÿ528 MVWorkflows.Application.resources.dll
+02/06/2022  13:47             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+02/06/2022  13:58            41ÿ472 MVWorkflows.Client.resources.dll
+               3 fichier(s)           68ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework\ru
+
+02/06/2022  13:47            24ÿ576 MVWorkflows.Application.resources.dll
+02/06/2022  13:47             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+02/06/2022  13:58            48ÿ128 MVWorkflows.Client.resources.dll
+               3 fichier(s)           77ÿ824 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net5.0\wwwroot\_framework\sv
+
+02/06/2022  13:47            16ÿ384 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            36ÿ352 MVWorkflows.Client.resources.dll
+               2 fichier(s)           52ÿ736 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0
+
+04/02/2022  15:28           253ÿ440 AutoMapper.dll
+05/01/2022  15:57            13ÿ312 AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+22/10/2021  09:13            14ÿ336 Blazored.FluentValidation.dll
+04/02/2022  21:25            23ÿ040 Blazored.LocalStorage.dll
+11/03/2022  09:41           442ÿ880 FluentValidation.dll
+01/09/2021  13:14            24ÿ064 LazyCache.dll
+08/10/2020  15:28            33ÿ280 MediatR.dll
+08/10/2020  17:35            16ÿ384 MediatR.Extensions.Microsoft.DependencyInjection.dll
+04/01/2020  08:13            29ÿ048 Microsoft.AspNetCore.Authentication.Abstractions.dll
+04/01/2020  08:13            47ÿ992 Microsoft.AspNetCore.Authentication.Cookies.dll
+04/01/2020  08:13            38ÿ264 Microsoft.AspNetCore.Authentication.Core.dll
+04/01/2020  08:13            62ÿ840 Microsoft.AspNetCore.Authentication.dll
+18/04/2022  12:18            46ÿ232 Microsoft.AspNetCore.Authorization.dll
+18/04/2022  12:18            30ÿ872 Microsoft.AspNetCore.Components.Authorization.dll
+18/04/2022  12:14           218ÿ264 Microsoft.AspNetCore.Components.dll
+18/04/2022  12:15            33ÿ432 Microsoft.AspNetCore.Components.Forms.dll
+18/04/2022  12:18           132ÿ248 Microsoft.AspNetCore.Components.Web.dll
+18/04/2022  12:18            88ÿ216 Microsoft.AspNetCore.Components.WebAssembly.dll
+18/04/2022  12:17            41ÿ112 Microsoft.AspNetCore.Connections.Abstractions.dll
+18/04/2022  12:17            43ÿ672 Microsoft.AspNetCore.Cryptography.Internal.dll
+18/04/2022  12:17            23ÿ168 Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+04/01/2020  08:09            23ÿ416 Microsoft.AspNetCore.DataProtection.Abstractions.dll
+04/01/2020  08:09           153ÿ976 Microsoft.AspNetCore.DataProtection.dll
+04/01/2020  08:10            22ÿ904 Microsoft.AspNetCore.Hosting.Abstractions.dll
+04/01/2020  08:10            15ÿ224 Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+04/01/2020  08:10            76ÿ152 Microsoft.AspNetCore.Http.Abstractions.dll
+18/04/2022  12:18           103ÿ552 Microsoft.AspNetCore.Http.Connections.Client.dll
+18/04/2022  12:17            28ÿ824 Microsoft.AspNetCore.Http.Connections.Common.dll
+04/01/2020  08:10            82ÿ296 Microsoft.AspNetCore.Http.dll
+04/01/2020  08:10            38ÿ776 Microsoft.AspNetCore.Http.Extensions.dll
+15/04/2022  22:18            33ÿ168 Microsoft.AspNetCore.Http.Features.dll
+04/01/2020  08:10            79ÿ224 Microsoft.AspNetCore.Identity.dll
+18/04/2022  12:15            17ÿ048 Microsoft.AspNetCore.Metadata.dll
+18/04/2022  12:18           149ÿ656 Microsoft.AspNetCore.SignalR.Client.Core.dll
+18/04/2022  12:18            20ÿ608 Microsoft.AspNetCore.SignalR.Client.dll
+18/04/2022  12:17            40ÿ600 Microsoft.AspNetCore.SignalR.Common.dll
+18/04/2022  12:18            35ÿ984 Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+04/01/2020  08:12            66ÿ424 Microsoft.AspNetCore.WebUtilities.dll
+13/04/2022  17:25           309ÿ376 Microsoft.CSharp.dll
+18/04/2022  08:51            31ÿ648 Microsoft.EntityFrameworkCore.Abstractions.dll
+18/04/2022  08:51         2ÿ100ÿ136 Microsoft.EntityFrameworkCore.dll
+22/10/2021  23:47            27ÿ264 Microsoft.Extensions.Caching.Abstractions.dll
+14/01/2022  19:54            38ÿ504 Microsoft.Extensions.Caching.Memory.dll
+22/10/2021  23:47            25ÿ216 Microsoft.Extensions.Configuration.Abstractions.dll
+22/10/2021  23:49            33ÿ920 Microsoft.Extensions.Configuration.Binder.dll
+22/10/2021  23:49            36ÿ464 Microsoft.Extensions.Configuration.dll
+22/10/2021  23:50            26ÿ224 Microsoft.Extensions.Configuration.FileExtensions.dll
+22/10/2021  23:50            25ÿ728 Microsoft.Extensions.Configuration.Json.dll
+22/10/2021  23:48            43ÿ632 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+22/10/2021  23:49            81ÿ536 Microsoft.Extensions.DependencyInjection.dll
+18/04/2022  12:16            23ÿ192 Microsoft.Extensions.Features.dll
+22/10/2021  23:51            21ÿ120 Microsoft.Extensions.FileProviders.Abstractions.dll
+22/10/2021  23:51            42ÿ624 Microsoft.Extensions.FileProviders.Physical.dll
+22/10/2021  23:47            44ÿ160 Microsoft.Extensions.FileSystemGlobbing.dll
+04/01/2020  08:11            22ÿ904 Microsoft.Extensions.Hosting.Abstractions.dll
+22/10/2021  23:50            68ÿ736 Microsoft.Extensions.Http.dll
+18/04/2022  12:15            29ÿ328 Microsoft.Extensions.Http.Polly.dll
+18/04/2022  12:18           169ÿ104 Microsoft.Extensions.Identity.Core.dll
+18/04/2022  12:18            42ÿ120 Microsoft.Extensions.Identity.Stores.dll
+18/04/2022  12:16            19ÿ600 Microsoft.Extensions.Localization.Abstractions.dll
+18/04/2022  12:18            31ÿ368 Microsoft.Extensions.Localization.dll
+24/02/2022  00:12            62ÿ064 Microsoft.Extensions.Logging.Abstractions.dll
+22/10/2021  23:50            44ÿ656 Microsoft.Extensions.Logging.dll
+04/01/2020  08:12            19ÿ520 Microsoft.Extensions.ObjectPool.dll
+22/10/2021  23:50            59ÿ008 Microsoft.Extensions.Options.dll
+22/10/2021  23:51            40ÿ048 Microsoft.Extensions.Primitives.dll
+04/01/2020  08:12            19ÿ832 Microsoft.Extensions.WebEncoders.dll
+18/04/2022  12:16            63ÿ120 Microsoft.JSInterop.dll
+18/04/2022  12:17            22ÿ672 Microsoft.JSInterop.WebAssembly.dll
+04/01/2020  08:11            74ÿ616 Microsoft.Net.Http.Headers.dll
+13/04/2022  17:27           428ÿ680 Microsoft.VisualBasic.Core.dll
+13/04/2022  17:25            18ÿ048 Microsoft.VisualBasic.dll
+13/04/2022  17:25            19ÿ096 Microsoft.Win32.Primitives.dll
+13/04/2022  17:26            36ÿ496 Microsoft.Win32.Registry.dll
+13/04/2022  17:32            58ÿ520 mscorlib.dll
+03/05/2022  17:38         8ÿ813ÿ568 MudBlazor.dll
+08/06/2022  15:15           251ÿ904 MVWorkflows.Application.dll
+08/06/2022  14:52           909ÿ824 MVWorkflows.Client.dll
+08/06/2022  14:52           112ÿ640 MVWorkflows.Client.Infrastructure.dll
+08/06/2022  14:51            13ÿ312 MVWorkflows.Domain.dll
+08/06/2022  14:51            27ÿ648 MVWorkflows.Shared.dll
+13/04/2022  17:25           101ÿ528 netstandard.dll
+17/03/2021  20:03           695ÿ336 Newtonsoft.Json.dll
+11/04/2021  16:29           268ÿ800 Polly.dll
+31/03/2019  15:06             6ÿ144 Polly.Extensions.Http.dll
+13/04/2022  17:26            15ÿ512 System.AppContext.dll
+13/04/2022  17:26            15ÿ512 System.Buffers.dll
+13/04/2022  17:28            87ÿ192 System.Collections.Concurrent.dll
+13/04/2022  17:25           103ÿ064 System.Collections.dll
+13/04/2022  17:26           191ÿ128 System.Collections.Immutable.dll
+13/04/2022  17:25            47ÿ744 System.Collections.NonGeneric.dll
+13/04/2022  17:25            46ÿ208 System.Collections.Specialized.dll
+13/04/2022  17:25            94ÿ336 System.ComponentModel.Annotations.dll
+13/04/2022  17:25            17ÿ536 System.ComponentModel.DataAnnotations.dll
+13/04/2022  17:25            17ÿ040 System.ComponentModel.dll
+13/04/2022  17:25            26ÿ760 System.ComponentModel.EventBasedAsync.dll
+13/04/2022  17:25            41ÿ600 System.ComponentModel.Primitives.dll
+13/04/2022  17:25           294ÿ528 System.ComponentModel.TypeConverter.dll
+13/04/2022  17:25            19ÿ584 System.Configuration.dll
+13/04/2022  17:26            53ÿ400 System.Console.dll
+13/04/2022  17:25            24ÿ192 System.Core.dll
+13/04/2022  17:30           998ÿ544 System.Data.Common.dll
+13/04/2022  17:25            16ÿ016 System.Data.DataSetExtensions.dll
+13/04/2022  17:32            24ÿ720 System.Data.dll
+13/04/2022  17:26            16ÿ024 System.Diagnostics.Contracts.dll
+13/04/2022  17:26            16ÿ024 System.Diagnostics.Debug.dll
+13/04/2022  17:26           145ÿ048 System.Diagnostics.DiagnosticSource.dll
+13/04/2022  17:25            20ÿ120 System.Diagnostics.FileVersionInfo.dll
+13/04/2022  17:26            43ÿ160 System.Diagnostics.Process.dll
+13/04/2022  17:30            26ÿ776 System.Diagnostics.StackTrace.dll
+13/04/2022  17:25            31ÿ360 System.Diagnostics.TextWriterTraceListener.dll
+13/04/2022  17:26            16ÿ024 System.Diagnostics.Tools.dll
+13/04/2022  17:29            54ÿ936 System.Diagnostics.TraceSource.dll
+13/04/2022  17:25            16ÿ536 System.Diagnostics.Tracing.dll
+13/04/2022  17:32            50ÿ840 System.dll
+13/04/2022  17:25            21ÿ120 System.Drawing.dll
+13/04/2022  17:27            62ÿ608 System.Drawing.Primitives.dll
+13/04/2022  17:26            16ÿ512 System.Dynamic.Runtime.dll
+13/04/2022  17:26            80ÿ536 System.Formats.Asn1.dll
+13/04/2022  17:28            16ÿ024 System.Globalization.Calendars.dll
+13/04/2022  17:26            16ÿ024 System.Globalization.dll
+13/04/2022  17:26            15ÿ488 System.Globalization.Extensions.dll
+13/04/2022  17:27            23ÿ192 System.IO.Compression.Brotli.dll
+13/04/2022  17:26           107ÿ664 System.IO.Compression.dll
+13/04/2022  17:25            16ÿ016 System.IO.Compression.FileSystem.dll
+13/04/2022  17:26            33ÿ432 System.IO.Compression.ZipFile.dll
+13/04/2022  17:26            16ÿ016 System.IO.dll
+13/04/2022  17:26            26ÿ240 System.IO.FileSystem.AccessControl.dll
+13/04/2022  17:26            24ÿ208 System.IO.FileSystem.dll
+13/04/2022  17:26            23ÿ192 System.IO.FileSystem.DriveInfo.dll
+13/04/2022  17:28            15ÿ488 System.IO.FileSystem.Primitives.dll
+13/04/2022  17:26            26ÿ776 System.IO.FileSystem.Watcher.dll
+13/04/2022  17:29            28ÿ312 System.IO.IsolatedStorage.dll
+13/04/2022  17:27            44ÿ696 System.IO.MemoryMappedFiles.dll
+13/04/2022  17:49            79ÿ512 System.IO.Pipelines.dll
+13/04/2022  17:29            21ÿ632 System.IO.Pipes.AccessControl.dll
+13/04/2022  17:27            31ÿ896 System.IO.Pipes.dll
+13/04/2022  17:27            15ÿ496 System.IO.UnmanagedMemoryStream.dll
+13/04/2022  17:26           128ÿ144 System.Linq.dll
+07/03/2022  19:34           162ÿ304 System.Linq.Dynamic.Core.dll
+13/04/2022  17:26           568ÿ448 System.Linq.Expressions.dll
+13/04/2022  17:28           224ÿ896 System.Linq.Parallel.dll
+13/04/2022  17:26            92ÿ816 System.Linq.Queryable.dll
+13/04/2022  17:28            63ÿ616 System.Memory.dll
+13/04/2022  17:25            18ÿ048 System.Net.dll
+13/04/2022  17:29           258ÿ712 System.Net.Http.dll
+13/04/2022  17:29            42ÿ136 System.Net.Http.Json.dll
+13/04/2022  17:27            40ÿ576 System.Net.HttpListener.dll
+13/04/2022  17:27           104ÿ576 System.Net.Mail.dll
+13/04/2022  17:27            21ÿ640 System.Net.NameResolution.dll
+13/04/2022  17:27            36ÿ496 System.Net.NetworkInformation.dll
+13/04/2022  17:27            23ÿ704 System.Net.Ping.dll
+13/04/2022  17:26            95ÿ896 System.Net.Primitives.dll
+13/04/2022  17:26            26ÿ264 System.Net.Quic.dll
+13/04/2022  17:26            47ÿ768 System.Net.Requests.dll
+13/04/2022  17:29            66ÿ200 System.Net.Security.dll
+13/04/2022  17:26            26ÿ264 System.Net.ServicePoint.dll
+13/04/2022  17:26            57ÿ496 System.Net.Sockets.dll
+13/04/2022  17:26            30ÿ848 System.Net.WebClient.dll
+13/04/2022  17:26            33ÿ936 System.Net.WebHeaderCollection.dll
+13/04/2022  17:27            21ÿ144 System.Net.WebProxy.dll
+13/04/2022  17:28            48ÿ280 System.Net.WebSockets.Client.dll
+13/04/2022  17:26            80ÿ536 System.Net.WebSockets.dll
+13/04/2022  17:25            16ÿ000 System.Numerics.dll
+13/04/2022  17:28            16ÿ024 System.Numerics.Vectors.dll
+13/04/2022  17:26            49ÿ280 System.ObjectModel.dll
+13/04/2022  17:22         3ÿ458ÿ712 System.Private.CoreLib.dll
+13/04/2022  17:27           790ÿ656 System.Private.DataContractSerialization.dll
+13/04/2022  17:25            50ÿ328 System.Private.Runtime.InteropServices.JavaScript.dll
+13/04/2022  17:27           101ÿ528 System.Private.Uri.dll
+13/04/2022  17:28         3ÿ099ÿ800 System.Private.Xml.dll
+13/04/2022  17:28           154ÿ264 System.Private.Xml.Linq.dll
+13/04/2022  17:28            36ÿ480 System.Reflection.DispatchProxy.dll
+13/04/2022  17:28            16ÿ536 System.Reflection.dll
+13/04/2022  17:28            16ÿ024 System.Reflection.Emit.dll
+13/04/2022  17:27            16ÿ024 System.Reflection.Emit.ILGeneration.dll
+13/04/2022  17:28            15ÿ504 System.Reflection.Emit.Lightweight.dll
+13/04/2022  17:28            15ÿ504 System.Reflection.Extensions.dll
+13/04/2022  17:28           454ÿ272 System.Reflection.Metadata.dll
+13/04/2022  17:27            16ÿ024 System.Reflection.Primitives.dll
+13/04/2022  17:29            24ÿ216 System.Reflection.TypeExtensions.dll
+13/04/2022  17:29            15ÿ488 System.Resources.Reader.dll
+13/04/2022  17:28            16ÿ008 System.Resources.ResourceManager.dll
+13/04/2022  17:27            27ÿ272 System.Resources.Writer.dll
+13/04/2022  17:25            17ÿ560 System.Runtime.CompilerServices.Unsafe.dll
+13/04/2022  17:29            18ÿ064 System.Runtime.CompilerServices.VisualC.dll
+13/04/2022  17:29            42ÿ136 System.Runtime.dll
+13/04/2022  17:29            18ÿ072 System.Runtime.Extensions.dll
+13/04/2022  17:29            15ÿ504 System.Runtime.Handles.dll
+13/04/2022  17:29            39ÿ064 System.Runtime.InteropServices.dll
+13/04/2022  17:29            21ÿ656 System.Runtime.InteropServices.RuntimeInformation.dll
+13/04/2022  17:29            16ÿ512 System.Runtime.Intrinsics.dll
+13/04/2022  17:29            16ÿ024 System.Runtime.Loader.dll
+13/04/2022  17:27            80ÿ008 System.Runtime.Numerics.dll
+13/04/2022  17:25            17ÿ536 System.Runtime.Serialization.dll
+13/04/2022  17:29            64ÿ664 System.Runtime.Serialization.Formatters.dll
+13/04/2022  17:29            16ÿ000 System.Runtime.Serialization.Json.dll
+13/04/2022  17:27            22ÿ664 System.Runtime.Serialization.Primitives.dll
+13/04/2022  17:28            16ÿ520 System.Runtime.Serialization.Xml.dll
+13/04/2022  17:25            46ÿ224 System.Security.AccessControl.dll
+13/04/2022  17:28            51ÿ840 System.Security.Claims.dll
+13/04/2022  17:29            85ÿ136 System.Security.Cryptography.Algorithms.dll
+13/04/2022  17:29            43ÿ152 System.Security.Cryptography.Cng.dll
+13/04/2022  17:27            33ÿ432 System.Security.Cryptography.Csp.dll
+13/04/2022  17:28            27ÿ288 System.Security.Cryptography.Encoding.dll
+13/04/2022  17:28            28ÿ312 System.Security.Cryptography.OpenSsl.dll
+04/01/2020  08:11           186ÿ504 System.Security.Cryptography.Pkcs.dll
+13/04/2022  17:28            64ÿ128 System.Security.Cryptography.Primitives.dll
+13/04/2022  17:29            63ÿ640 System.Security.Cryptography.X509Certificates.dll
+04/01/2020  08:13           167ÿ568 System.Security.Cryptography.Xml.dll
+13/04/2022  17:25            18ÿ560 System.Security.dll
+04/01/2020  08:13            96ÿ400 System.Security.Permissions.dll
+13/04/2022  17:28            15ÿ512 System.Security.Principal.dll
+13/04/2022  17:25            31ÿ896 System.Security.Principal.Windows.dll
+13/04/2022  17:29            15ÿ488 System.Security.SecureString.dll
+13/04/2022  17:25            17ÿ536 System.ServiceModel.Web.dll
+13/04/2022  17:25            16ÿ528 System.ServiceProcess.dll
+13/04/2022  17:29           740ÿ488 System.Text.Encoding.CodePages.dll
+13/04/2022  17:29            16ÿ024 System.Text.Encoding.dll
+13/04/2022  17:29            16ÿ024 System.Text.Encoding.Extensions.dll
+13/04/2022  17:28            71ÿ296 System.Text.Encodings.Web.dll
+13/04/2022  17:28           457ÿ880 System.Text.Json.dll
+13/04/2022  17:28           191ÿ120 System.Text.RegularExpressions.dll
+13/04/2022  17:28            52ÿ376 System.Threading.Channels.dll
+13/04/2022  17:26            45ÿ720 System.Threading.dll
+13/04/2022  17:28            16ÿ024 System.Threading.Overlapped.dll
+13/04/2022  17:28           179ÿ840 System.Threading.Tasks.Dataflow.dll
+13/04/2022  17:29            17ÿ048 System.Threading.Tasks.dll
+13/04/2022  17:29            16ÿ000 System.Threading.Tasks.Extensions.dll
+13/04/2022  17:28            60ÿ544 System.Threading.Tasks.Parallel.dll
+13/04/2022  17:29            16ÿ024 System.Threading.Thread.dll
+13/04/2022  17:29            16ÿ024 System.Threading.ThreadPool.dll
+13/04/2022  17:29            15ÿ512 System.Threading.Timer.dll
+13/04/2022  17:25            17ÿ024 System.Transactions.dll
+13/04/2022  17:28           154ÿ264 System.Transactions.Local.dll
+13/04/2022  17:28            15ÿ512 System.ValueTuple.dll
+13/04/2022  17:25            16ÿ016 System.Web.dll
+13/04/2022  17:28            27ÿ800 System.Web.HttpUtility.dll
+13/04/2022  17:25            16ÿ512 System.Windows.dll
+13/04/2022  17:32            24ÿ728 System.Xml.dll
+13/04/2022  17:25            16ÿ512 System.Xml.Linq.dll
+13/04/2022  17:28            22ÿ144 System.Xml.ReaderWriter.dll
+13/04/2022  17:25            16ÿ512 System.Xml.Serialization.dll
+13/04/2022  17:28            16ÿ000 System.Xml.XDocument.dll
+13/04/2022  17:29            16ÿ000 System.Xml.XmlDocument.dll
+13/04/2022  17:29            18ÿ048 System.Xml.XmlSerializer.dll
+13/04/2022  17:29            16ÿ016 System.Xml.XPath.dll
+13/04/2022  17:29            16ÿ512 System.Xml.XPath.XDocument.dll
+18/02/2022  12:24            17ÿ920 Toolbelt.Blazor.HttpClientInterceptor.dll
+13/04/2022  17:25            17ÿ024 WindowsBase.dll
+             250 fichier(s)       35ÿ968ÿ760 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\de
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            22ÿ016 MVWorkflows.Client.resources.dll
+               2 fichier(s)           37ÿ888 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\en
+
+08/06/2022  15:15            32ÿ768 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+08/06/2022  14:52            51ÿ712 MVWorkflows.Client.resources.dll
+               3 fichier(s)           89ÿ600 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\es
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            25ÿ600 MVWorkflows.Client.resources.dll
+               2 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\fr
+
+08/06/2022  15:15            24ÿ576 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            27ÿ648 MVWorkflows.Client.resources.dll
+               2 fichier(s)           52ÿ224 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\id
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            33ÿ280 MVWorkflows.Client.resources.dll
+               2 fichier(s)           49ÿ152 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\it
+
+08/06/2022  15:15            18ÿ944 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            34ÿ304 MVWorkflows.Client.resources.dll
+               2 fichier(s)           53ÿ248 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\km
+
+08/06/2022  15:15            22ÿ016 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+08/06/2022  14:52            41ÿ472 MVWorkflows.Client.resources.dll
+               3 fichier(s)           67ÿ584 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\ru
+
+08/06/2022  15:15            23ÿ552 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+08/06/2022  14:52            48ÿ128 MVWorkflows.Client.resources.dll
+               3 fichier(s)           76ÿ800 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\sv
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            36ÿ352 MVWorkflows.Client.resources.dll
+               2 fichier(s)           52ÿ224 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework
+
+04/02/2022  15:28           253ÿ440 AutoMapper.dll
+05/01/2022  15:57            13ÿ312 AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+22/10/2021  09:13            14ÿ336 Blazored.FluentValidation.dll
+04/02/2022  21:25            23ÿ040 Blazored.LocalStorage.dll
+11/03/2022  09:41           442ÿ880 FluentValidation.dll
+01/09/2021  13:14            24ÿ064 LazyCache.dll
+08/10/2020  15:28            33ÿ280 MediatR.dll
+08/10/2020  17:35            16ÿ384 MediatR.Extensions.Microsoft.DependencyInjection.dll
+04/01/2020  08:13            29ÿ048 Microsoft.AspNetCore.Authentication.Abstractions.dll
+04/01/2020  08:13            47ÿ992 Microsoft.AspNetCore.Authentication.Cookies.dll
+04/01/2020  08:13            38ÿ264 Microsoft.AspNetCore.Authentication.Core.dll
+04/01/2020  08:13            62ÿ840 Microsoft.AspNetCore.Authentication.dll
+18/04/2022  12:18            46ÿ232 Microsoft.AspNetCore.Authorization.dll
+18/04/2022  12:18            30ÿ872 Microsoft.AspNetCore.Components.Authorization.dll
+18/04/2022  12:14           218ÿ264 Microsoft.AspNetCore.Components.dll
+18/04/2022  12:15            33ÿ432 Microsoft.AspNetCore.Components.Forms.dll
+18/04/2022  12:18           132ÿ248 Microsoft.AspNetCore.Components.Web.dll
+18/04/2022  12:18            88ÿ216 Microsoft.AspNetCore.Components.WebAssembly.dll
+18/04/2022  12:17            41ÿ112 Microsoft.AspNetCore.Connections.Abstractions.dll
+18/04/2022  12:17            43ÿ672 Microsoft.AspNetCore.Cryptography.Internal.dll
+18/04/2022  12:17            23ÿ168 Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+04/01/2020  08:09            23ÿ416 Microsoft.AspNetCore.DataProtection.Abstractions.dll
+04/01/2020  08:09           153ÿ976 Microsoft.AspNetCore.DataProtection.dll
+04/01/2020  08:10            22ÿ904 Microsoft.AspNetCore.Hosting.Abstractions.dll
+04/01/2020  08:10            15ÿ224 Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+04/01/2020  08:10            76ÿ152 Microsoft.AspNetCore.Http.Abstractions.dll
+18/04/2022  12:18           103ÿ552 Microsoft.AspNetCore.Http.Connections.Client.dll
+18/04/2022  12:17            28ÿ824 Microsoft.AspNetCore.Http.Connections.Common.dll
+04/01/2020  08:10            82ÿ296 Microsoft.AspNetCore.Http.dll
+04/01/2020  08:10            38ÿ776 Microsoft.AspNetCore.Http.Extensions.dll
+15/04/2022  22:18            33ÿ168 Microsoft.AspNetCore.Http.Features.dll
+04/01/2020  08:10            79ÿ224 Microsoft.AspNetCore.Identity.dll
+18/04/2022  12:15            17ÿ048 Microsoft.AspNetCore.Metadata.dll
+18/04/2022  12:18           149ÿ656 Microsoft.AspNetCore.SignalR.Client.Core.dll
+18/04/2022  12:18            20ÿ608 Microsoft.AspNetCore.SignalR.Client.dll
+18/04/2022  12:17            40ÿ600 Microsoft.AspNetCore.SignalR.Common.dll
+18/04/2022  12:18            35ÿ984 Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+04/01/2020  08:12            66ÿ424 Microsoft.AspNetCore.WebUtilities.dll
+13/04/2022  17:25           309ÿ376 Microsoft.CSharp.dll
+18/04/2022  08:51            31ÿ648 Microsoft.EntityFrameworkCore.Abstractions.dll
+18/04/2022  08:51         2ÿ100ÿ136 Microsoft.EntityFrameworkCore.dll
+22/10/2021  23:47            27ÿ264 Microsoft.Extensions.Caching.Abstractions.dll
+14/01/2022  19:54            38ÿ504 Microsoft.Extensions.Caching.Memory.dll
+22/10/2021  23:47            25ÿ216 Microsoft.Extensions.Configuration.Abstractions.dll
+22/10/2021  23:49            33ÿ920 Microsoft.Extensions.Configuration.Binder.dll
+22/10/2021  23:49            36ÿ464 Microsoft.Extensions.Configuration.dll
+22/10/2021  23:50            26ÿ224 Microsoft.Extensions.Configuration.FileExtensions.dll
+22/10/2021  23:50            25ÿ728 Microsoft.Extensions.Configuration.Json.dll
+22/10/2021  23:48            43ÿ632 Microsoft.Extensions.DependencyInjection.Abstractions.dll
+22/10/2021  23:49            81ÿ536 Microsoft.Extensions.DependencyInjection.dll
+18/04/2022  12:16            23ÿ192 Microsoft.Extensions.Features.dll
+22/10/2021  23:51            21ÿ120 Microsoft.Extensions.FileProviders.Abstractions.dll
+22/10/2021  23:51            42ÿ624 Microsoft.Extensions.FileProviders.Physical.dll
+22/10/2021  23:47            44ÿ160 Microsoft.Extensions.FileSystemGlobbing.dll
+04/01/2020  08:11            22ÿ904 Microsoft.Extensions.Hosting.Abstractions.dll
+22/10/2021  23:50            68ÿ736 Microsoft.Extensions.Http.dll
+18/04/2022  12:15            29ÿ328 Microsoft.Extensions.Http.Polly.dll
+18/04/2022  12:18           169ÿ104 Microsoft.Extensions.Identity.Core.dll
+18/04/2022  12:18            42ÿ120 Microsoft.Extensions.Identity.Stores.dll
+18/04/2022  12:16            19ÿ600 Microsoft.Extensions.Localization.Abstractions.dll
+18/04/2022  12:18            31ÿ368 Microsoft.Extensions.Localization.dll
+24/02/2022  00:12            62ÿ064 Microsoft.Extensions.Logging.Abstractions.dll
+22/10/2021  23:50            44ÿ656 Microsoft.Extensions.Logging.dll
+04/01/2020  08:12            19ÿ520 Microsoft.Extensions.ObjectPool.dll
+22/10/2021  23:50            59ÿ008 Microsoft.Extensions.Options.dll
+22/10/2021  23:51            40ÿ048 Microsoft.Extensions.Primitives.dll
+04/01/2020  08:12            19ÿ832 Microsoft.Extensions.WebEncoders.dll
+18/04/2022  12:16            63ÿ120 Microsoft.JSInterop.dll
+18/04/2022  12:17            22ÿ672 Microsoft.JSInterop.WebAssembly.dll
+04/01/2020  08:11            74ÿ616 Microsoft.Net.Http.Headers.dll
+13/04/2022  17:27           428ÿ680 Microsoft.VisualBasic.Core.dll
+13/04/2022  17:25            18ÿ048 Microsoft.VisualBasic.dll
+13/04/2022  17:25            19ÿ096 Microsoft.Win32.Primitives.dll
+13/04/2022  17:26            36ÿ496 Microsoft.Win32.Registry.dll
+13/04/2022  17:32            58ÿ520 mscorlib.dll
+03/05/2022  17:38         8ÿ813ÿ568 MudBlazor.dll
+08/06/2022  15:15           251ÿ904 MVWorkflows.Application.dll
+08/06/2022  14:52           909ÿ824 MVWorkflows.Client.dll
+08/06/2022  14:52           112ÿ640 MVWorkflows.Client.Infrastructure.dll
+08/06/2022  14:51            13ÿ312 MVWorkflows.Domain.dll
+08/06/2022  14:51            27ÿ648 MVWorkflows.Shared.dll
+13/04/2022  17:25           101ÿ528 netstandard.dll
+17/03/2021  20:03           695ÿ336 Newtonsoft.Json.dll
+11/04/2021  16:29           268ÿ800 Polly.dll
+31/03/2019  15:06             6ÿ144 Polly.Extensions.Http.dll
+13/04/2022  17:26            15ÿ512 System.AppContext.dll
+13/04/2022  17:26            15ÿ512 System.Buffers.dll
+13/04/2022  17:28            87ÿ192 System.Collections.Concurrent.dll
+13/04/2022  17:25           103ÿ064 System.Collections.dll
+13/04/2022  17:26           191ÿ128 System.Collections.Immutable.dll
+13/04/2022  17:25            47ÿ744 System.Collections.NonGeneric.dll
+13/04/2022  17:25            46ÿ208 System.Collections.Specialized.dll
+13/04/2022  17:25            94ÿ336 System.ComponentModel.Annotations.dll
+13/04/2022  17:25            17ÿ536 System.ComponentModel.DataAnnotations.dll
+13/04/2022  17:25            17ÿ040 System.ComponentModel.dll
+13/04/2022  17:25            26ÿ760 System.ComponentModel.EventBasedAsync.dll
+13/04/2022  17:25            41ÿ600 System.ComponentModel.Primitives.dll
+13/04/2022  17:25           294ÿ528 System.ComponentModel.TypeConverter.dll
+13/04/2022  17:25            19ÿ584 System.Configuration.dll
+13/04/2022  17:26            53ÿ400 System.Console.dll
+13/04/2022  17:25            24ÿ192 System.Core.dll
+13/04/2022  17:30           998ÿ544 System.Data.Common.dll
+13/04/2022  17:25            16ÿ016 System.Data.DataSetExtensions.dll
+13/04/2022  17:32            24ÿ720 System.Data.dll
+13/04/2022  17:26            16ÿ024 System.Diagnostics.Contracts.dll
+13/04/2022  17:26            16ÿ024 System.Diagnostics.Debug.dll
+13/04/2022  17:26           145ÿ048 System.Diagnostics.DiagnosticSource.dll
+13/04/2022  17:25            20ÿ120 System.Diagnostics.FileVersionInfo.dll
+13/04/2022  17:26            43ÿ160 System.Diagnostics.Process.dll
+13/04/2022  17:30            26ÿ776 System.Diagnostics.StackTrace.dll
+13/04/2022  17:25            31ÿ360 System.Diagnostics.TextWriterTraceListener.dll
+13/04/2022  17:26            16ÿ024 System.Diagnostics.Tools.dll
+13/04/2022  17:29            54ÿ936 System.Diagnostics.TraceSource.dll
+13/04/2022  17:25            16ÿ536 System.Diagnostics.Tracing.dll
+13/04/2022  17:32            50ÿ840 System.dll
+13/04/2022  17:25            21ÿ120 System.Drawing.dll
+13/04/2022  17:27            62ÿ608 System.Drawing.Primitives.dll
+13/04/2022  17:26            16ÿ512 System.Dynamic.Runtime.dll
+13/04/2022  17:26            80ÿ536 System.Formats.Asn1.dll
+13/04/2022  17:28            16ÿ024 System.Globalization.Calendars.dll
+13/04/2022  17:26            16ÿ024 System.Globalization.dll
+13/04/2022  17:26            15ÿ488 System.Globalization.Extensions.dll
+13/04/2022  17:27            23ÿ192 System.IO.Compression.Brotli.dll
+13/04/2022  17:26           107ÿ664 System.IO.Compression.dll
+13/04/2022  17:25            16ÿ016 System.IO.Compression.FileSystem.dll
+13/04/2022  17:26            33ÿ432 System.IO.Compression.ZipFile.dll
+13/04/2022  17:26            16ÿ016 System.IO.dll
+13/04/2022  17:26            26ÿ240 System.IO.FileSystem.AccessControl.dll
+13/04/2022  17:26            24ÿ208 System.IO.FileSystem.dll
+13/04/2022  17:26            23ÿ192 System.IO.FileSystem.DriveInfo.dll
+13/04/2022  17:28            15ÿ488 System.IO.FileSystem.Primitives.dll
+13/04/2022  17:26            26ÿ776 System.IO.FileSystem.Watcher.dll
+13/04/2022  17:29            28ÿ312 System.IO.IsolatedStorage.dll
+13/04/2022  17:27            44ÿ696 System.IO.MemoryMappedFiles.dll
+13/04/2022  17:49            79ÿ512 System.IO.Pipelines.dll
+13/04/2022  17:29            21ÿ632 System.IO.Pipes.AccessControl.dll
+13/04/2022  17:27            31ÿ896 System.IO.Pipes.dll
+13/04/2022  17:27            15ÿ496 System.IO.UnmanagedMemoryStream.dll
+13/04/2022  17:26           128ÿ144 System.Linq.dll
+07/03/2022  19:34           162ÿ304 System.Linq.Dynamic.Core.dll
+13/04/2022  17:26           568ÿ448 System.Linq.Expressions.dll
+13/04/2022  17:28           224ÿ896 System.Linq.Parallel.dll
+13/04/2022  17:26            92ÿ816 System.Linq.Queryable.dll
+13/04/2022  17:28            63ÿ616 System.Memory.dll
+13/04/2022  17:25            18ÿ048 System.Net.dll
+13/04/2022  17:29           258ÿ712 System.Net.Http.dll
+13/04/2022  17:29            42ÿ136 System.Net.Http.Json.dll
+13/04/2022  17:27            40ÿ576 System.Net.HttpListener.dll
+13/04/2022  17:27           104ÿ576 System.Net.Mail.dll
+13/04/2022  17:27            21ÿ640 System.Net.NameResolution.dll
+13/04/2022  17:27            36ÿ496 System.Net.NetworkInformation.dll
+13/04/2022  17:27            23ÿ704 System.Net.Ping.dll
+13/04/2022  17:26            95ÿ896 System.Net.Primitives.dll
+13/04/2022  17:26            26ÿ264 System.Net.Quic.dll
+13/04/2022  17:26            47ÿ768 System.Net.Requests.dll
+13/04/2022  17:29            66ÿ200 System.Net.Security.dll
+13/04/2022  17:26            26ÿ264 System.Net.ServicePoint.dll
+13/04/2022  17:26            57ÿ496 System.Net.Sockets.dll
+13/04/2022  17:26            30ÿ848 System.Net.WebClient.dll
+13/04/2022  17:26            33ÿ936 System.Net.WebHeaderCollection.dll
+13/04/2022  17:27            21ÿ144 System.Net.WebProxy.dll
+13/04/2022  17:28            48ÿ280 System.Net.WebSockets.Client.dll
+13/04/2022  17:26            80ÿ536 System.Net.WebSockets.dll
+13/04/2022  17:25            16ÿ000 System.Numerics.dll
+13/04/2022  17:28            16ÿ024 System.Numerics.Vectors.dll
+13/04/2022  17:26            49ÿ280 System.ObjectModel.dll
+13/04/2022  17:22         3ÿ458ÿ712 System.Private.CoreLib.dll
+13/04/2022  17:27           790ÿ656 System.Private.DataContractSerialization.dll
+13/04/2022  17:25            50ÿ328 System.Private.Runtime.InteropServices.JavaScript.dll
+13/04/2022  17:27           101ÿ528 System.Private.Uri.dll
+13/04/2022  17:28         3ÿ099ÿ800 System.Private.Xml.dll
+13/04/2022  17:28           154ÿ264 System.Private.Xml.Linq.dll
+13/04/2022  17:28            36ÿ480 System.Reflection.DispatchProxy.dll
+13/04/2022  17:28            16ÿ536 System.Reflection.dll
+13/04/2022  17:28            16ÿ024 System.Reflection.Emit.dll
+13/04/2022  17:27            16ÿ024 System.Reflection.Emit.ILGeneration.dll
+13/04/2022  17:28            15ÿ504 System.Reflection.Emit.Lightweight.dll
+13/04/2022  17:28            15ÿ504 System.Reflection.Extensions.dll
+13/04/2022  17:28           454ÿ272 System.Reflection.Metadata.dll
+13/04/2022  17:27            16ÿ024 System.Reflection.Primitives.dll
+13/04/2022  17:29            24ÿ216 System.Reflection.TypeExtensions.dll
+13/04/2022  17:29            15ÿ488 System.Resources.Reader.dll
+13/04/2022  17:28            16ÿ008 System.Resources.ResourceManager.dll
+13/04/2022  17:27            27ÿ272 System.Resources.Writer.dll
+13/04/2022  17:25            17ÿ560 System.Runtime.CompilerServices.Unsafe.dll
+13/04/2022  17:29            18ÿ064 System.Runtime.CompilerServices.VisualC.dll
+13/04/2022  17:29            42ÿ136 System.Runtime.dll
+13/04/2022  17:29            18ÿ072 System.Runtime.Extensions.dll
+13/04/2022  17:29            15ÿ504 System.Runtime.Handles.dll
+13/04/2022  17:29            39ÿ064 System.Runtime.InteropServices.dll
+13/04/2022  17:29            21ÿ656 System.Runtime.InteropServices.RuntimeInformation.dll
+13/04/2022  17:29            16ÿ512 System.Runtime.Intrinsics.dll
+13/04/2022  17:29            16ÿ024 System.Runtime.Loader.dll
+13/04/2022  17:27            80ÿ008 System.Runtime.Numerics.dll
+13/04/2022  17:25            17ÿ536 System.Runtime.Serialization.dll
+13/04/2022  17:29            64ÿ664 System.Runtime.Serialization.Formatters.dll
+13/04/2022  17:29            16ÿ000 System.Runtime.Serialization.Json.dll
+13/04/2022  17:27            22ÿ664 System.Runtime.Serialization.Primitives.dll
+13/04/2022  17:28            16ÿ520 System.Runtime.Serialization.Xml.dll
+13/04/2022  17:25            46ÿ224 System.Security.AccessControl.dll
+13/04/2022  17:28            51ÿ840 System.Security.Claims.dll
+13/04/2022  17:29            85ÿ136 System.Security.Cryptography.Algorithms.dll
+13/04/2022  17:29            43ÿ152 System.Security.Cryptography.Cng.dll
+13/04/2022  17:27            33ÿ432 System.Security.Cryptography.Csp.dll
+13/04/2022  17:28            27ÿ288 System.Security.Cryptography.Encoding.dll
+13/04/2022  17:28            28ÿ312 System.Security.Cryptography.OpenSsl.dll
+04/01/2020  08:11           186ÿ504 System.Security.Cryptography.Pkcs.dll
+13/04/2022  17:28            64ÿ128 System.Security.Cryptography.Primitives.dll
+13/04/2022  17:29            63ÿ640 System.Security.Cryptography.X509Certificates.dll
+04/01/2020  08:13           167ÿ568 System.Security.Cryptography.Xml.dll
+13/04/2022  17:25            18ÿ560 System.Security.dll
+04/01/2020  08:13            96ÿ400 System.Security.Permissions.dll
+13/04/2022  17:28            15ÿ512 System.Security.Principal.dll
+13/04/2022  17:25            31ÿ896 System.Security.Principal.Windows.dll
+13/04/2022  17:29            15ÿ488 System.Security.SecureString.dll
+13/04/2022  17:25            17ÿ536 System.ServiceModel.Web.dll
+13/04/2022  17:25            16ÿ528 System.ServiceProcess.dll
+13/04/2022  17:29           740ÿ488 System.Text.Encoding.CodePages.dll
+13/04/2022  17:29            16ÿ024 System.Text.Encoding.dll
+13/04/2022  17:29            16ÿ024 System.Text.Encoding.Extensions.dll
+13/04/2022  17:28            71ÿ296 System.Text.Encodings.Web.dll
+13/04/2022  17:28           457ÿ880 System.Text.Json.dll
+13/04/2022  17:28           191ÿ120 System.Text.RegularExpressions.dll
+13/04/2022  17:28            52ÿ376 System.Threading.Channels.dll
+13/04/2022  17:26            45ÿ720 System.Threading.dll
+13/04/2022  17:28            16ÿ024 System.Threading.Overlapped.dll
+13/04/2022  17:28           179ÿ840 System.Threading.Tasks.Dataflow.dll
+13/04/2022  17:29            17ÿ048 System.Threading.Tasks.dll
+13/04/2022  17:29            16ÿ000 System.Threading.Tasks.Extensions.dll
+13/04/2022  17:28            60ÿ544 System.Threading.Tasks.Parallel.dll
+13/04/2022  17:29            16ÿ024 System.Threading.Thread.dll
+13/04/2022  17:29            16ÿ024 System.Threading.ThreadPool.dll
+13/04/2022  17:29            15ÿ512 System.Threading.Timer.dll
+13/04/2022  17:25            17ÿ024 System.Transactions.dll
+13/04/2022  17:28           154ÿ264 System.Transactions.Local.dll
+13/04/2022  17:28            15ÿ512 System.ValueTuple.dll
+13/04/2022  17:25            16ÿ016 System.Web.dll
+13/04/2022  17:28            27ÿ800 System.Web.HttpUtility.dll
+13/04/2022  17:25            16ÿ512 System.Windows.dll
+13/04/2022  17:32            24ÿ728 System.Xml.dll
+13/04/2022  17:25            16ÿ512 System.Xml.Linq.dll
+13/04/2022  17:28            22ÿ144 System.Xml.ReaderWriter.dll
+13/04/2022  17:25            16ÿ512 System.Xml.Serialization.dll
+13/04/2022  17:28            16ÿ000 System.Xml.XDocument.dll
+13/04/2022  17:29            16ÿ000 System.Xml.XmlDocument.dll
+13/04/2022  17:29            18ÿ048 System.Xml.XmlSerializer.dll
+13/04/2022  17:29            16ÿ016 System.Xml.XPath.dll
+13/04/2022  17:29            16ÿ512 System.Xml.XPath.XDocument.dll
+18/02/2022  12:24            17ÿ920 Toolbelt.Blazor.HttpClientInterceptor.dll
+13/04/2022  17:25            17ÿ024 WindowsBase.dll
+             250 fichier(s)       35ÿ968ÿ760 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework\de
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            22ÿ016 MVWorkflows.Client.resources.dll
+               2 fichier(s)           37ÿ888 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework\en
+
+08/06/2022  15:15            32ÿ768 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+08/06/2022  14:52            51ÿ712 MVWorkflows.Client.resources.dll
+               3 fichier(s)           89ÿ600 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework\es
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            25ÿ600 MVWorkflows.Client.resources.dll
+               2 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework\fr
+
+08/06/2022  15:15            24ÿ576 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            27ÿ648 MVWorkflows.Client.resources.dll
+               2 fichier(s)           52ÿ224 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework\id
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            33ÿ280 MVWorkflows.Client.resources.dll
+               2 fichier(s)           49ÿ152 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework\it
+
+08/06/2022  15:15            18ÿ944 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            34ÿ304 MVWorkflows.Client.resources.dll
+               2 fichier(s)           53ÿ248 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework\km
+
+08/06/2022  15:15            22ÿ016 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+08/06/2022  14:52            41ÿ472 MVWorkflows.Client.resources.dll
+               3 fichier(s)           67ÿ584 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework\ru
+
+08/06/2022  15:15            23ÿ552 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+08/06/2022  14:52            48ÿ128 MVWorkflows.Client.resources.dll
+               3 fichier(s)           76ÿ800 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\bin\Debug\net6.0\wwwroot\_framework\sv
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            36ÿ352 MVWorkflows.Client.resources.dll
+               2 fichier(s)           52ÿ224 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0
+
+02/06/2022  13:58           868ÿ864 MVWorkflows.Client.dll
+               1 fichier(s)          868ÿ864 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\de
+
+02/06/2022  13:58            22ÿ016 MVWorkflows.Client.resources.dll
+               1 fichier(s)           22ÿ016 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\en
+
+02/06/2022  13:58            45ÿ056 MVWorkflows.Client.resources.dll
+               1 fichier(s)           45ÿ056 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\es
+
+02/06/2022  13:58            25ÿ600 MVWorkflows.Client.resources.dll
+               1 fichier(s)           25ÿ600 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\fr
+
+02/06/2022  13:58            20ÿ992 MVWorkflows.Client.resources.dll
+               1 fichier(s)           20ÿ992 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\id
+
+02/06/2022  13:58            33ÿ280 MVWorkflows.Client.resources.dll
+               1 fichier(s)           33ÿ280 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\it
+
+02/06/2022  13:58            34ÿ304 MVWorkflows.Client.resources.dll
+               1 fichier(s)           34ÿ304 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\km
+
+02/06/2022  13:58            41ÿ472 MVWorkflows.Client.resources.dll
+               1 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\RazorDeclaration
+
+02/06/2022  13:58           613ÿ888 MVWorkflows.Client.dll
+               1 fichier(s)          613ÿ888 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\ref
+
+02/06/2022  13:58            71ÿ680 MVWorkflows.Client.dll
+               1 fichier(s)           71ÿ680 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\ru
+
+02/06/2022  13:58            48ÿ128 MVWorkflows.Client.resources.dll
+               1 fichier(s)           48ÿ128 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net5.0\sv
+
+02/06/2022  13:58            36ÿ352 MVWorkflows.Client.resources.dll
+               1 fichier(s)           36ÿ352 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0
+
+08/06/2022  14:52           909ÿ824 MVWorkflows.Client.dll
+               1 fichier(s)          909ÿ824 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\de
+
+08/06/2022  14:52            22ÿ016 MVWorkflows.Client.resources.dll
+               1 fichier(s)           22ÿ016 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\en
+
+08/06/2022  14:52            51ÿ712 MVWorkflows.Client.resources.dll
+               1 fichier(s)           51ÿ712 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\es
+
+08/06/2022  14:52            25ÿ600 MVWorkflows.Client.resources.dll
+               1 fichier(s)           25ÿ600 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\fr
+
+08/06/2022  14:52            27ÿ648 MVWorkflows.Client.resources.dll
+               1 fichier(s)           27ÿ648 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\id
+
+08/06/2022  14:52            33ÿ280 MVWorkflows.Client.resources.dll
+               1 fichier(s)           33ÿ280 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\it
+
+08/06/2022  14:52            34ÿ304 MVWorkflows.Client.resources.dll
+               1 fichier(s)           34ÿ304 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\km
+
+08/06/2022  14:52            41ÿ472 MVWorkflows.Client.resources.dll
+               1 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\ref
+
+08/06/2022  14:52            74ÿ240 MVWorkflows.Client.dll
+               1 fichier(s)           74ÿ240 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\refint
+
+08/06/2022  14:52            74ÿ240 MVWorkflows.Client.dll
+               1 fichier(s)           74ÿ240 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\ru
+
+08/06/2022  14:52            48ÿ128 MVWorkflows.Client.resources.dll
+               1 fichier(s)           48ÿ128 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\obj\Debug\net6.0\sv
+
+08/06/2022  14:52            36ÿ352 MVWorkflows.Client.resources.dll
+               1 fichier(s)           36ÿ352 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0
+
+03/06/2022  14:37           220ÿ672 MVWorkflows.Application.dll
+03/06/2022  14:37           112ÿ128 MVWorkflows.Client.Infrastructure.dll
+03/06/2022  14:36            13ÿ824 MVWorkflows.Domain.dll
+03/06/2022  14:36            27ÿ648 MVWorkflows.Shared.dll
+               4 fichier(s)          374ÿ272 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\de
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\en
+
+03/06/2022  14:37            27ÿ648 MVWorkflows.Application.resources.dll
+03/06/2022  14:37             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               2 fichier(s)           32ÿ768 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\es
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\fr
+
+03/06/2022  14:37            19ÿ456 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ456 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\id
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\it
+
+03/06/2022  14:37            19ÿ968 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ968 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\km
+
+03/06/2022  14:37            22ÿ528 MVWorkflows.Application.resources.dll
+03/06/2022  14:37             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+               2 fichier(s)           26ÿ624 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\ru
+
+03/06/2022  14:37            24ÿ576 MVWorkflows.Application.resources.dll
+03/06/2022  14:37             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               2 fichier(s)           29ÿ696 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net5.0\sv
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0
+
+08/06/2022  08:41           252ÿ416 MVWorkflows.Application.dll
+08/06/2022  08:42           112ÿ640 MVWorkflows.Client.Infrastructure.dll
+08/06/2022  08:41            13ÿ824 MVWorkflows.Domain.dll
+08/06/2022  08:41            27ÿ648 MVWorkflows.Shared.dll
+               4 fichier(s)          406ÿ528 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0\de
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0\en
+
+08/06/2022  08:41            33ÿ280 MVWorkflows.Application.resources.dll
+08/06/2022  08:42             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               2 fichier(s)           38ÿ400 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0\es
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0\fr
+
+08/06/2022  08:42            25ÿ088 MVWorkflows.Application.resources.dll
+               1 fichier(s)           25ÿ088 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0\id
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0\it
+
+08/06/2022  08:41            19ÿ968 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ968 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0\km
+
+08/06/2022  08:41            22ÿ528 MVWorkflows.Application.resources.dll
+08/06/2022  08:42             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+               2 fichier(s)           26ÿ624 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0\ru
+
+08/06/2022  08:42            24ÿ576 MVWorkflows.Application.resources.dll
+08/06/2022  08:42             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               2 fichier(s)           29ÿ696 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\Debug\net6.0\sv
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0
+
+08/06/2022  15:15           251ÿ904 MVWorkflows.Application.dll
+08/06/2022  14:52           112ÿ640 MVWorkflows.Client.Infrastructure.dll
+08/06/2022  14:51            13ÿ312 MVWorkflows.Domain.dll
+08/06/2022  14:51            27ÿ648 MVWorkflows.Shared.dll
+               4 fichier(s)          405ÿ504 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0\de
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0\en
+
+08/06/2022  15:15            32ÿ768 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               2 fichier(s)           37ÿ888 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0\es
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0\fr
+
+08/06/2022  15:15            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0\id
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0\it
+
+08/06/2022  15:15            18ÿ944 MVWorkflows.Application.resources.dll
+               1 fichier(s)           18ÿ944 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0\km
+
+08/06/2022  15:15            22ÿ016 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+               2 fichier(s)           26ÿ112 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0\ru
+
+08/06/2022  15:15            23ÿ552 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               2 fichier(s)           28ÿ672 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\bin\x64\Debug\net6.0\sv
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net5.0
+
+03/06/2022  14:37           112ÿ128 MVWorkflows.Client.Infrastructure.dll
+               1 fichier(s)          112ÿ128 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net5.0\en
+
+03/06/2022  14:37             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net5.0\km
+
+03/06/2022  14:37             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net5.0\ref
+
+03/06/2022  14:37            41ÿ472 MVWorkflows.Client.Infrastructure.dll
+               1 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net5.0\refint
+
+03/06/2022  14:37            41ÿ472 MVWorkflows.Client.Infrastructure.dll
+               1 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net5.0\ru
+
+03/06/2022  14:37             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net6.0
+
+08/06/2022  08:42           112ÿ640 MVWorkflows.Client.Infrastructure.dll
+               1 fichier(s)          112ÿ640 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net6.0\en
+
+08/06/2022  08:42             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net6.0\km
+
+08/06/2022  08:42             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net6.0\ref
+
+08/06/2022  08:42            41ÿ472 MVWorkflows.Client.Infrastructure.dll
+               1 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net6.0\refint
+
+08/06/2022  08:42            41ÿ472 MVWorkflows.Client.Infrastructure.dll
+               1 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\Debug\net6.0\ru
+
+08/06/2022  08:42             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\x64\Debug\net6.0
+
+08/06/2022  14:52           112ÿ640 MVWorkflows.Client.Infrastructure.dll
+               1 fichier(s)          112ÿ640 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\x64\Debug\net6.0\en
+
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\x64\Debug\net6.0\km
+
+08/06/2022  14:52             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\x64\Debug\net6.0\ref
+
+08/06/2022  14:52            41ÿ472 MVWorkflows.Client.Infrastructure.dll
+               1 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\x64\Debug\net6.0\refint
+
+08/06/2022  14:52            41ÿ472 MVWorkflows.Client.Infrastructure.dll
+               1 fichier(s)           41ÿ472 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client.Infrastructure\obj\x64\Debug\net6.0\ru
+
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\bin\Debug\net5.0
+
+03/06/2022  14:36            13ÿ824 MVWorkflows.Domain.dll
+               1 fichier(s)           13ÿ824 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\bin\Debug\net6.0
+
+08/06/2022  08:41            13ÿ824 MVWorkflows.Domain.dll
+               1 fichier(s)           13ÿ824 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\bin\x64\Debug\net6.0
+
+08/06/2022  14:51            13ÿ312 MVWorkflows.Domain.dll
+               1 fichier(s)           13ÿ312 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\obj\Debug\net5.0
+
+03/06/2022  14:36            13ÿ824 MVWorkflows.Domain.dll
+               1 fichier(s)           13ÿ824 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\obj\Debug\net5.0\ref
+
+03/06/2022  14:36            11ÿ776 MVWorkflows.Domain.dll
+               1 fichier(s)           11ÿ776 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\obj\Debug\net5.0\refint
+
+03/06/2022  14:36            11ÿ776 MVWorkflows.Domain.dll
+               1 fichier(s)           11ÿ776 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\obj\Debug\net6.0
+
+08/06/2022  08:41            13ÿ824 MVWorkflows.Domain.dll
+               1 fichier(s)           13ÿ824 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\obj\Debug\net6.0\ref
+
+08/06/2022  08:41            11ÿ776 MVWorkflows.Domain.dll
+               1 fichier(s)           11ÿ776 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\obj\Debug\net6.0\refint
+
+08/06/2022  08:41            11ÿ776 MVWorkflows.Domain.dll
+               1 fichier(s)           11ÿ776 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\obj\x64\Debug\net6.0
+
+08/06/2022  14:51            13ÿ312 MVWorkflows.Domain.dll
+               1 fichier(s)           13ÿ312 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\obj\x64\Debug\net6.0\ref
+
+08/06/2022  14:51            10ÿ752 MVWorkflows.Domain.dll
+               1 fichier(s)           10ÿ752 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Domain\obj\x64\Debug\net6.0\refint
+
+08/06/2022  14:51            10ÿ752 MVWorkflows.Domain.dll
+               1 fichier(s)           10ÿ752 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0
+
+03/06/2022  14:37           220ÿ672 MVWorkflows.Application.dll
+03/06/2022  14:36            13ÿ824 MVWorkflows.Domain.dll
+03/06/2022  14:37           387ÿ072 MVWorkflows.Infrastructure.dll
+03/06/2022  14:36            27ÿ648 MVWorkflows.Shared.dll
+               4 fichier(s)          649ÿ216 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0\de
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           20ÿ480 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0\en
+
+03/06/2022  14:37            27ÿ648 MVWorkflows.Application.resources.dll
+03/06/2022  14:37            12ÿ800 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           40ÿ448 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0\es
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           20ÿ480 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0\fr
+
+03/06/2022  14:37            19ÿ456 MVWorkflows.Application.resources.dll
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           23ÿ552 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0\id
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           20ÿ480 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0\it
+
+03/06/2022  14:37            19ÿ968 MVWorkflows.Application.resources.dll
+03/06/2022  14:37            11ÿ776 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           31ÿ744 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0\km
+
+03/06/2022  14:37            22ÿ528 MVWorkflows.Application.resources.dll
+03/06/2022  14:37            13ÿ312 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           35ÿ840 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0\ru
+
+03/06/2022  14:37            24ÿ576 MVWorkflows.Application.resources.dll
+03/06/2022  14:37            14ÿ336 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           38ÿ912 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net5.0\sv
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           20ÿ480 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0
+
+08/06/2022  15:15           251ÿ904 MVWorkflows.Application.dll
+08/06/2022  14:51            13ÿ312 MVWorkflows.Domain.dll
+08/06/2022  14:52           390ÿ656 MVWorkflows.Infrastructure.dll
+08/06/2022  14:51            27ÿ648 MVWorkflows.Shared.dll
+               4 fichier(s)          683ÿ520 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0\de
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           19ÿ456 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0\en
+
+08/06/2022  15:15            32ÿ768 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            11ÿ776 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           44ÿ544 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0\es
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           19ÿ456 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0\fr
+
+08/06/2022  15:15            24ÿ576 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           28ÿ160 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0\id
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           19ÿ456 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0\it
+
+08/06/2022  15:15            18ÿ944 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            11ÿ264 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           30ÿ208 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0\km
+
+08/06/2022  15:15            22ÿ016 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            12ÿ800 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           34ÿ816 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0\ru
+
+08/06/2022  15:15            23ÿ552 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            13ÿ824 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           37ÿ376 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\bin\Debug\net6.0\sv
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               2 fichier(s)           19ÿ456 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0
+
+03/06/2022  14:37           387ÿ072 MVWorkflows.Infrastructure.dll
+               1 fichier(s)          387ÿ072 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\de
+
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\en
+
+03/06/2022  14:37            12ÿ800 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)           12ÿ800 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\es
+
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\fr
+
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\id
+
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\it
+
+03/06/2022  14:37            11ÿ776 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)           11ÿ776 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\km
+
+03/06/2022  14:37            13ÿ312 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)           13ÿ312 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\ref
+
+03/06/2022  14:37            50ÿ688 MVWorkflows.Infrastructure.dll
+               1 fichier(s)           50ÿ688 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\refint
+
+03/06/2022  14:37            50ÿ688 MVWorkflows.Infrastructure.dll
+               1 fichier(s)           50ÿ688 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\ru
+
+03/06/2022  14:37            14ÿ336 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)           14ÿ336 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net5.0\sv
+
+03/06/2022  14:37             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            4ÿ096 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0
+
+08/06/2022  14:52           390ÿ656 MVWorkflows.Infrastructure.dll
+               1 fichier(s)          390ÿ656 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\de
+
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            3ÿ584 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\en
+
+08/06/2022  14:52            11ÿ776 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)           11ÿ776 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\es
+
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            3ÿ584 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\fr
+
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            3ÿ584 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\id
+
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            3ÿ584 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\it
+
+08/06/2022  14:52            11ÿ264 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)           11ÿ264 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\km
+
+08/06/2022  14:52            12ÿ800 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)           12ÿ800 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\ref
+
+08/06/2022  14:52            51ÿ712 MVWorkflows.Infrastructure.dll
+               1 fichier(s)           51ÿ712 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\refint
+
+08/06/2022  14:52            51ÿ712 MVWorkflows.Infrastructure.dll
+               1 fichier(s)           51ÿ712 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\ru
+
+08/06/2022  14:52            13ÿ824 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)           13ÿ824 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure\obj\Debug\net6.0\sv
+
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               1 fichier(s)            3ÿ584 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0
+
+03/06/2022  14:37           220ÿ672 MVWorkflows.Application.dll
+03/06/2022  14:36            13ÿ824 MVWorkflows.Domain.dll
+03/06/2022  14:37             8ÿ192 MVWorkflows.Infrastructure.Shared.dll
+03/06/2022  14:36            27ÿ648 MVWorkflows.Shared.dll
+               4 fichier(s)          270ÿ336 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0\de
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0\en
+
+03/06/2022  14:37            27ÿ648 MVWorkflows.Application.resources.dll
+               1 fichier(s)           27ÿ648 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0\es
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0\fr
+
+03/06/2022  14:37            19ÿ456 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ456 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0\id
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0\it
+
+03/06/2022  14:37            19ÿ968 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ968 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0\km
+
+03/06/2022  14:37            22ÿ528 MVWorkflows.Application.resources.dll
+               1 fichier(s)           22ÿ528 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0\ru
+
+03/06/2022  14:37            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net5.0\sv
+
+03/06/2022  14:37            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0
+
+08/06/2022  08:41           252ÿ416 MVWorkflows.Application.dll
+08/06/2022  08:41            13ÿ824 MVWorkflows.Domain.dll
+08/06/2022  08:42             8ÿ192 MVWorkflows.Infrastructure.Shared.dll
+08/06/2022  08:41            27ÿ648 MVWorkflows.Shared.dll
+               4 fichier(s)          302ÿ080 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0\de
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0\en
+
+08/06/2022  08:41            33ÿ280 MVWorkflows.Application.resources.dll
+               1 fichier(s)           33ÿ280 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0\es
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0\fr
+
+08/06/2022  08:42            25ÿ088 MVWorkflows.Application.resources.dll
+               1 fichier(s)           25ÿ088 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0\id
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0\it
+
+08/06/2022  08:41            19ÿ968 MVWorkflows.Application.resources.dll
+               1 fichier(s)           19ÿ968 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0\km
+
+08/06/2022  08:41            22ÿ528 MVWorkflows.Application.resources.dll
+               1 fichier(s)           22ÿ528 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0\ru
+
+08/06/2022  08:42            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\Debug\net6.0\sv
+
+08/06/2022  08:42            16ÿ384 MVWorkflows.Application.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0
+
+08/06/2022  15:15           251ÿ904 MVWorkflows.Application.dll
+08/06/2022  14:51            13ÿ312 MVWorkflows.Domain.dll
+08/06/2022  15:15             7ÿ680 MVWorkflows.Infrastructure.Shared.dll
+08/06/2022  14:51            27ÿ648 MVWorkflows.Shared.dll
+               4 fichier(s)          300ÿ544 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0\de
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0\en
+
+08/06/2022  15:15            32ÿ768 MVWorkflows.Application.resources.dll
+               1 fichier(s)           32ÿ768 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0\es
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0\fr
+
+08/06/2022  15:15            24ÿ576 MVWorkflows.Application.resources.dll
+               1 fichier(s)           24ÿ576 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0\id
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0\it
+
+08/06/2022  15:15            18ÿ944 MVWorkflows.Application.resources.dll
+               1 fichier(s)           18ÿ944 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0\km
+
+08/06/2022  15:15            22ÿ016 MVWorkflows.Application.resources.dll
+               1 fichier(s)           22ÿ016 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0\ru
+
+08/06/2022  15:15            23ÿ552 MVWorkflows.Application.resources.dll
+               1 fichier(s)           23ÿ552 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\bin\x64\Debug\net6.0\sv
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\obj\Debug\net5.0
+
+03/06/2022  14:37             8ÿ192 MVWorkflows.Infrastructure.Shared.dll
+               1 fichier(s)            8ÿ192 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\obj\Debug\net5.0\ref
+
+03/06/2022  14:37             6ÿ656 MVWorkflows.Infrastructure.Shared.dll
+               1 fichier(s)            6ÿ656 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\obj\Debug\net5.0\refint
+
+03/06/2022  14:37             6ÿ656 MVWorkflows.Infrastructure.Shared.dll
+               1 fichier(s)            6ÿ656 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\obj\Debug\net6.0
+
+08/06/2022  08:42             8ÿ192 MVWorkflows.Infrastructure.Shared.dll
+               1 fichier(s)            8ÿ192 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\obj\Debug\net6.0\ref
+
+08/06/2022  08:42             6ÿ656 MVWorkflows.Infrastructure.Shared.dll
+               1 fichier(s)            6ÿ656 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\obj\Debug\net6.0\refint
+
+08/06/2022  08:42             6ÿ656 MVWorkflows.Infrastructure.Shared.dll
+               1 fichier(s)            6ÿ656 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\obj\x64\Debug\net6.0
+
+08/06/2022  15:15             7ÿ680 MVWorkflows.Infrastructure.Shared.dll
+               1 fichier(s)            7ÿ680 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\obj\x64\Debug\net6.0\ref
+
+08/06/2022  14:52             5ÿ632 MVWorkflows.Infrastructure.Shared.dll
+               1 fichier(s)            5ÿ632 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Infrastructure.Shared\obj\x64\Debug\net6.0\refint
+
+08/06/2022  15:15             5ÿ632 MVWorkflows.Infrastructure.Shared.dll
+               1 fichier(s)            5ÿ632 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0
+
+16/10/2020  15:36           286ÿ720 AutoMapper.dll
+05/02/2021  14:28            12ÿ800 AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+09/06/2021  15:35            14ÿ336 Blazored.FluentValidation.dll
+13/06/2021  13:30            23ÿ040 Blazored.LocalStorage.dll
+19/02/2021  21:04         2ÿ932ÿ912 BouncyCastle.Crypto.dll
+30/04/2021  11:19            73ÿ728 Bunit.Core.dll
+17/06/2021  12:03         2ÿ639ÿ360 EPPlus.dll
+03/06/2021  10:01            63ÿ488 FluentValidation.AspNetCore.dll
+03/06/2021  10:01            15ÿ872 FluentValidation.DependencyInjectionExtensions.dll
+03/06/2021  10:01           427ÿ520 FluentValidation.dll
+18/12/2021  21:07            27ÿ136 Hangfire.AspNetCore.dll
+18/12/2021  21:08         1ÿ579ÿ520 Hangfire.Core.dll
+18/12/2021  21:08           330ÿ240 Hangfire.SqlServer.dll
+02/06/2020  13:07           256ÿ952 Humanizer.dll
+15/03/2021  19:28             6ÿ656 LazyCache.AspNetCore.dll
+15/03/2021  19:28            23ÿ552 LazyCache.dll
+12/06/2021  16:31           836ÿ608 MailKit.dll
+08/10/2020  15:28            33ÿ280 MediatR.dll
+08/10/2020  17:35            16ÿ384 MediatR.Extensions.Microsoft.DependencyInjection.dll
+13/05/2021  21:04            38ÿ264 Microsoft.AspNetCore.Authentication.JwtBearer.dll
+13/05/2021  21:02            43ÿ920 Microsoft.AspNetCore.Authorization.dll
+13/05/2021  21:03            28ÿ048 Microsoft.AspNetCore.Components.Authorization.dll
+13/05/2021  21:02           180ÿ088 Microsoft.AspNetCore.Components.dll
+13/05/2021  21:03            31ÿ120 Microsoft.AspNetCore.Components.Forms.dll
+13/05/2021  21:03            98ÿ680 Microsoft.AspNetCore.Components.Web.dll
+13/05/2021  21:03            67ÿ960 Microsoft.AspNetCore.Components.WebAssembly.dll
+13/05/2021  21:03            44ÿ432 Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+13/05/2021  21:03            41ÿ360 Microsoft.AspNetCore.Connections.Abstractions.dll
+13/05/2021  21:02            41ÿ872 Microsoft.AspNetCore.Cryptography.Internal.dll
+13/05/2021  21:02            21ÿ904 Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+13/05/2021  21:03            96ÿ656 Microsoft.AspNetCore.Http.Connections.Client.dll
+13/05/2021  21:03            27ÿ512 Microsoft.AspNetCore.Http.Connections.Common.dll
+13/05/2021  21:02            32ÿ120 Microsoft.AspNetCore.Http.Features.dll
+13/05/2021  21:04            97ÿ656 Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+13/05/2021  21:02            15ÿ248 Microsoft.AspNetCore.Metadata.dll
+09/02/2021  03:14            45ÿ960 Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+09/02/2021  03:13           141ÿ688 Microsoft.AspNetCore.Mvc.Versioning.dll
+13/05/2021  21:03           145ÿ800 Microsoft.AspNetCore.SignalR.Client.Core.dll
+13/05/2021  21:03            18ÿ296 Microsoft.AspNetCore.SignalR.Client.dll
+13/05/2021  21:03            38ÿ280 Microsoft.AspNetCore.SignalR.Common.dll
+13/05/2021  21:03            34ÿ168 Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+25/08/2020  23:24           351ÿ704 Microsoft.Data.SqlClient.dll
+22/11/2017  10:48            22ÿ632 Microsoft.DotNet.PlatformAbstractions.dll
+13/05/2021  18:31            28ÿ536 Microsoft.EntityFrameworkCore.Abstractions.dll
+13/05/2021  18:32           301ÿ944 Microsoft.EntityFrameworkCore.Design.dll
+13/05/2021  18:31         1ÿ833ÿ872 Microsoft.EntityFrameworkCore.dll
+13/05/2021  18:31         1ÿ257ÿ848 Microsoft.EntityFrameworkCore.Relational.dll
+13/05/2021  18:32           352ÿ656 Microsoft.EntityFrameworkCore.SqlServer.dll
+26/11/2020  01:59            74ÿ120 Microsoft.Extensions.DependencyInjection.dll
+22/11/2017  10:48            58ÿ472 Microsoft.Extensions.DependencyModel.dll
+30/11/2020  15:11            25ÿ992 Microsoft.Extensions.Http.Polly.dll
+13/05/2021  21:02           166ÿ776 Microsoft.Extensions.Identity.Core.dll
+13/05/2021  21:03            40ÿ824 Microsoft.Extensions.Identity.Stores.dll
+13/05/2021  21:02            18ÿ296 Microsoft.Extensions.Localization.Abstractions.dll
+13/05/2021  21:03            30ÿ072 Microsoft.Extensions.Localization.dll
+16/03/2021  22:42            39ÿ304 Microsoft.Extensions.Primitives.dll
+18/05/2020  20:11         1ÿ280ÿ952 Microsoft.Identity.Client.dll
+30/06/2020  01:04            61ÿ288 Microsoft.IdentityModel.JsonWebTokens.dll
+30/06/2020  01:05            24ÿ952 Microsoft.IdentityModel.Logging.dll
+30/06/2020  01:06            32ÿ616 Microsoft.IdentityModel.Protocols.dll
+30/06/2020  01:13           108ÿ904 Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+30/06/2020  01:09           862ÿ568 Microsoft.IdentityModel.Tokens.dll
+10/03/2021  23:48            40ÿ848 Microsoft.IO.RecyclableMemoryStream.dll
+13/05/2021  21:02            51ÿ592 Microsoft.JSInterop.dll
+13/05/2021  21:02            18ÿ312 Microsoft.JSInterop.WebAssembly.dll
+29/08/2020  20:14           173ÿ960 Microsoft.OpenApi.dll
+12/06/2021  16:21         1ÿ021ÿ440 MimeKit.dll
+21/06/2021  14:19         4ÿ357ÿ632 MudBlazor.dll
+02/06/2022  13:47           220ÿ672 MVWorkflows.Application.dll
+02/06/2022  13:58           868ÿ864 MVWorkflows.Client.dll
+02/06/2022  13:47           112ÿ128 MVWorkflows.Client.Infrastructure.dll
+02/06/2022  13:47            13ÿ824 MVWorkflows.Domain.dll
+02/06/2022  13:47           386ÿ048 MVWorkflows.Infrastructure.dll
+02/06/2022  13:47             8ÿ192 MVWorkflows.Infrastructure.Shared.dll
+02/06/2022  13:47           119ÿ296 MVWorkflows.Server.dll
+02/06/2022  13:47            27ÿ648 MVWorkflows.Shared.dll
+17/03/2021  20:03           695ÿ336 Newtonsoft.Json.dll
+13/03/2019  19:14           266ÿ752 Polly.dll
+31/03/2019  15:06             6ÿ144 Polly.Extensions.Http.dll
+10/09/2020  02:20           128ÿ000 Serilog.dll
+08/03/2019  21:45             6ÿ656 Serilog.Enrichers.Environment.dll
+03/03/2021  06:26            28ÿ160 Serilog.Extensions.Hosting.dll
+21/08/2019  23:09            15ÿ872 Serilog.Extensions.Logging.dll
+17/10/2019  05:18             8ÿ704 Serilog.Formatting.Compact.dll
+02/06/2019  00:57            47ÿ616 Serilog.Settings.Configuration.dll
+09/06/2019  21:49             9ÿ216 Serilog.Sinks.Async.dll
+22/10/2017  16:48            32ÿ768 Serilog.Sinks.Console.dll
+17/10/2019  05:25            28ÿ160 Serilog.Sinks.File.dll
+30/04/2021  10:51            14ÿ848 Swashbuckle.AspNetCore.Swagger.dll
+30/04/2021  10:51            82ÿ944 Swashbuckle.AspNetCore.SwaggerGen.dll
+30/04/2021  10:51         3ÿ728ÿ896 Swashbuckle.AspNetCore.SwaggerUI.dll
+15/11/2019  08:37           375ÿ912 System.Configuration.ConfigurationManager.dll
+19/07/2017  10:01           237ÿ424 System.Data.SqlClient.dll
+12/12/2020  02:40            78ÿ728 System.Diagnostics.DiagnosticSource.dll
+30/06/2020  01:03            83ÿ304 System.IdentityModel.Tokens.Jwt.dll
+26/11/2020  02:01            67ÿ464 System.IO.Pipelines.dll
+31/05/2021  07:33           150ÿ016 System.Linq.Dynamic.Core.dll
+15/11/2019  08:37            83ÿ528 System.Runtime.Caching.dll
+15/11/2019  08:37            17ÿ784 System.Security.Cryptography.ProtectedData.dll
+05/11/2016  04:57           118ÿ680 System.Xml.XPath.XmlDocument.dll
+10/11/2020  09:34            16ÿ896 Toolbelt.Blazor.HttpClientInterceptor.dll
+             101 fichier(s)       31ÿ655ÿ728 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\BlazorDebugProxy
+
+05/05/2021  20:39            30ÿ584 BrowserDebugHost.dll
+05/05/2021  20:39           152ÿ440 BrowserDebugProxy.dll
+03/03/2020  09:02         5ÿ446ÿ008 Microsoft.CodeAnalysis.CSharp.dll
+03/03/2020  09:00         2ÿ622ÿ336 Microsoft.CodeAnalysis.dll
+19/02/2020  21:40           370ÿ928 Mono.Cecil.dll
+19/02/2020  21:40           116ÿ448 Mono.Cecil.Pdb.dll
+19/02/2020  21:40            51ÿ936 Mono.Cecil.Rocks.dll
+09/11/2019  00:56           721ÿ024 Newtonsoft.Json.dll
+               8 fichier(s)        9ÿ511ÿ704 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\ca
+
+18/12/2021  21:07            15ÿ872 Hangfire.Core.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\de
+
+18/12/2021  21:07            15ÿ872 Hangfire.Core.resources.dll
+02/06/2022  13:47            16ÿ384 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            22ÿ016 MVWorkflows.Client.resources.dll
+02/06/2022  13:47             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               4 fichier(s)           58ÿ368 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\en
+
+02/06/2022  13:47            27ÿ648 MVWorkflows.Application.resources.dll
+02/06/2022  13:47             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+02/06/2022  13:58            45ÿ056 MVWorkflows.Client.resources.dll
+02/06/2022  13:47            12ÿ800 MVWorkflows.Infrastructure.resources.dll
+02/06/2022  13:47             5ÿ120 MVWorkflows.Server.resources.dll
+               5 fichier(s)           95ÿ744 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\es
+
+18/12/2021  21:07            16ÿ384 Hangfire.Core.resources.dll
+02/06/2022  13:47            16ÿ384 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            25ÿ600 MVWorkflows.Client.resources.dll
+02/06/2022  13:47             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               4 fichier(s)           62ÿ464 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\fa
+
+18/12/2021  21:07            18ÿ432 Hangfire.Core.resources.dll
+               1 fichier(s)           18ÿ432 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\fr
+
+18/12/2021  21:07            17ÿ920 Hangfire.Core.resources.dll
+02/06/2022  13:47            19ÿ456 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            20ÿ992 MVWorkflows.Client.resources.dll
+02/06/2022  13:47             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               4 fichier(s)           62ÿ464 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\id
+
+02/06/2022  13:47            16ÿ384 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            33ÿ280 MVWorkflows.Client.resources.dll
+02/06/2022  13:47             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               3 fichier(s)           53ÿ760 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\it
+
+02/06/2022  13:47            19ÿ968 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            34ÿ304 MVWorkflows.Client.resources.dll
+02/06/2022  13:47            11ÿ776 MVWorkflows.Infrastructure.resources.dll
+               3 fichier(s)           66ÿ048 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\km
+
+02/06/2022  13:47            22ÿ528 MVWorkflows.Application.resources.dll
+02/06/2022  13:47             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+02/06/2022  13:58            41ÿ472 MVWorkflows.Client.resources.dll
+02/06/2022  13:47            13ÿ312 MVWorkflows.Infrastructure.resources.dll
+               4 fichier(s)           81ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\nb
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\nl
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\pt
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\pt-BR
+
+18/12/2021  21:07            16ÿ384 Hangfire.Core.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\pt-PT
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\ref
+
+02/06/2022  13:47            44ÿ032 MVWorkflows.Server.dll
+               1 fichier(s)           44ÿ032 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\ru
+
+02/06/2022  13:47            24ÿ576 MVWorkflows.Application.resources.dll
+02/06/2022  13:47             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+02/06/2022  13:58            48ÿ128 MVWorkflows.Client.resources.dll
+02/06/2022  13:47            14ÿ336 MVWorkflows.Infrastructure.resources.dll
+02/06/2022  13:47             5ÿ120 MVWorkflows.Server.resources.dll
+               5 fichier(s)           97ÿ280 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1
+
+25/08/2020  23:25         1ÿ356ÿ248 Microsoft.Data.SqlClient.dll
+               1 fichier(s)        1ÿ356ÿ248 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\runtimes\unix\lib\netstandard2.0
+
+19/07/2017  10:01           833ÿ904 System.Data.SqlClient.dll
+               1 fichier(s)          833ÿ904 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1
+
+25/08/2020  23:24         1ÿ440ÿ728 Microsoft.Data.SqlClient.dll
+               1 fichier(s)        1ÿ440ÿ728 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0
+
+19/07/2017  10:01           883ÿ568 System.Data.SqlClient.dll
+15/11/2019  08:53            86ÿ088 System.Runtime.Caching.dll
+15/11/2019  08:53            25ÿ464 System.Security.Cryptography.ProtectedData.dll
+               3 fichier(s)          995ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\runtimes\win-arm\native
+
+25/08/2020  20:34           560ÿ504 Microsoft.Data.SqlClient.SNI.dll
+               1 fichier(s)          560ÿ504 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\runtimes\win-arm64\native
+
+25/08/2020  20:35           662ÿ392 Microsoft.Data.SqlClient.SNI.dll
+04/01/2020  08:12           174ÿ224 sni.dll
+               2 fichier(s)          836ÿ616 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\runtimes\win-x64\native
+
+25/08/2020  20:34           549ÿ240 Microsoft.Data.SqlClient.SNI.dll
+04/01/2020  08:12           160ÿ040 sni.dll
+               2 fichier(s)          709ÿ280 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\runtimes\win-x86\native
+
+25/08/2020  20:34           497ÿ016 Microsoft.Data.SqlClient.SNI.dll
+04/01/2020  08:12           136ÿ488 sni.dll
+               2 fichier(s)          633ÿ504 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\sv
+
+02/06/2022  13:47            16ÿ384 MVWorkflows.Application.resources.dll
+02/06/2022  13:58            36ÿ352 MVWorkflows.Client.resources.dll
+02/06/2022  13:47             4ÿ096 MVWorkflows.Infrastructure.resources.dll
+               3 fichier(s)           56ÿ832 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\tr-TR
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\zh
+
+18/12/2021  21:07            16ÿ384 Hangfire.Core.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net5.0\zh-TW
+
+18/12/2021  21:07            15ÿ360 Hangfire.Core.resources.dll
+               1 fichier(s)           15ÿ360 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0
+
+09/08/2016  13:56           203ÿ264 Autofac.dll
+22/10/2021  09:13            14ÿ336 Blazored.FluentValidation.dll
+04/02/2022  21:25            23ÿ040 Blazored.LocalStorage.dll
+19/02/2021  21:04         2ÿ932ÿ912 BouncyCastle.Crypto.dll
+12/05/2022  13:48         3ÿ159ÿ040 EPPlus.dll
+07/03/2022  14:49             6ÿ656 EPPlus.Interfaces.dll
+07/03/2022  14:49             7ÿ168 EPPlus.System.Drawing.dll
+03/06/2021  10:01            63ÿ488 FluentValidation.AspNetCore.dll
+03/06/2021  10:01            15ÿ872 FluentValidation.DependencyInjectionExtensions.dll
+11/03/2022  09:41           442ÿ880 FluentValidation.dll
+18/12/2021  21:07            27ÿ136 Hangfire.AspNetCore.dll
+07/06/2017  23:28             7ÿ680 Hangfire.Autofac.dll
+18/12/2021  21:08         1ÿ579ÿ520 Hangfire.Core.dll
+18/12/2021  21:08           330ÿ240 Hangfire.SqlServer.dll
+02/06/2020  13:07           256ÿ952 Humanizer.dll
+01/09/2021  13:14             6ÿ656 LazyCache.AspNetCore.dll
+01/09/2021  13:14            24ÿ064 LazyCache.dll
+12/06/2021  16:31           836ÿ608 MailKit.dll
+08/10/2020  15:28            33ÿ280 MediatR.dll
+08/10/2020  17:35            16ÿ384 MediatR.Extensions.Microsoft.DependencyInjection.dll
+18/04/2022  12:18            41ÿ624 Microsoft.AspNetCore.Authentication.JwtBearer.dll
+18/04/2022  12:18            46ÿ232 Microsoft.AspNetCore.Authorization.dll
+18/04/2022  12:18            30ÿ872 Microsoft.AspNetCore.Components.Authorization.dll
+18/04/2022  12:14           218ÿ264 Microsoft.AspNetCore.Components.dll
+18/04/2022  12:15            33ÿ432 Microsoft.AspNetCore.Components.Forms.dll
+18/04/2022  12:18           132ÿ248 Microsoft.AspNetCore.Components.Web.dll
+18/04/2022  12:18            88ÿ216 Microsoft.AspNetCore.Components.WebAssembly.dll
+18/04/2022  12:18            49ÿ816 Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+18/04/2022  12:17            41ÿ112 Microsoft.AspNetCore.Connections.Abstractions.dll
+18/04/2022  12:17            43ÿ672 Microsoft.AspNetCore.Cryptography.Internal.dll
+18/04/2022  12:17            23ÿ168 Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+18/04/2022  12:18           103ÿ552 Microsoft.AspNetCore.Http.Connections.Client.dll
+18/04/2022  12:17            28ÿ824 Microsoft.AspNetCore.Http.Connections.Common.dll
+18/04/2022  12:19            98ÿ968 Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+18/04/2022  12:15            17ÿ048 Microsoft.AspNetCore.Metadata.dll
+09/02/2021  03:14            45ÿ960 Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+09/02/2021  03:13           141ÿ688 Microsoft.AspNetCore.Mvc.Versioning.dll
+18/04/2022  12:18           149ÿ656 Microsoft.AspNetCore.SignalR.Client.Core.dll
+18/04/2022  12:18            20ÿ608 Microsoft.AspNetCore.SignalR.Client.dll
+18/04/2022  12:17            40ÿ600 Microsoft.AspNetCore.SignalR.Common.dll
+18/04/2022  12:18            35ÿ984 Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+20/09/2021  23:59           358ÿ360 Microsoft.Data.SqlClient.dll
+22/11/2017  10:48            22ÿ632 Microsoft.DotNet.PlatformAbstractions.dll
+18/04/2022  08:51            31ÿ648 Microsoft.EntityFrameworkCore.Abstractions.dll
+18/04/2022  08:51           391ÿ584 Microsoft.EntityFrameworkCore.Design.dll
+18/04/2022  08:51         2ÿ100ÿ136 Microsoft.EntityFrameworkCore.dll
+18/04/2022  08:51         1ÿ500ÿ072 Microsoft.EntityFrameworkCore.Relational.dll
+18/04/2022  08:51           453ÿ544 Microsoft.EntityFrameworkCore.SqlServer.dll
+14/01/2022  19:54            38ÿ504 Microsoft.Extensions.Caching.Memory.dll
+22/11/2017  10:48            58ÿ472 Microsoft.Extensions.DependencyModel.dll
+18/04/2022  12:16            23ÿ192 Microsoft.Extensions.Features.dll
+18/04/2022  12:15            29ÿ328 Microsoft.Extensions.Http.Polly.dll
+18/04/2022  12:18           169ÿ104 Microsoft.Extensions.Identity.Core.dll
+18/04/2022  12:18            42ÿ120 Microsoft.Extensions.Identity.Stores.dll
+18/04/2022  12:16            19ÿ600 Microsoft.Extensions.Localization.Abstractions.dll
+18/04/2022  12:18            31ÿ368 Microsoft.Extensions.Localization.dll
+24/02/2022  00:12            62ÿ064 Microsoft.Extensions.Logging.Abstractions.dll
+19/10/2020  21:51         1ÿ310ÿ664 Microsoft.Identity.Client.dll
+30/03/2021  19:40            62ÿ824 Microsoft.IdentityModel.JsonWebTokens.dll
+30/03/2021  19:42            24ÿ936 Microsoft.IdentityModel.Logging.dll
+30/03/2021  19:46            32ÿ632 Microsoft.IdentityModel.Protocols.dll
+30/03/2021  19:58           108ÿ920 Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+30/03/2021  19:52           889ÿ216 Microsoft.IdentityModel.Tokens.dll
+06/10/2021  20:48            62ÿ352 Microsoft.IO.RecyclableMemoryStream.dll
+18/04/2022  12:16            63ÿ120 Microsoft.JSInterop.dll
+18/04/2022  12:17            22ÿ672 Microsoft.JSInterop.WebAssembly.dll
+29/08/2020  20:14           173ÿ960 Microsoft.OpenApi.dll
+19/10/2020  18:40            27ÿ528 Microsoft.Win32.SystemEvents.dll
+12/06/2021  16:21         1ÿ021ÿ440 MimeKit.dll
+03/05/2022  17:38         8ÿ813ÿ568 MudBlazor.dll
+08/06/2022  15:15           251ÿ904 MVWorkflows.Application.dll
+08/06/2022  14:52           909ÿ824 MVWorkflows.Client.dll
+08/06/2022  14:52           112ÿ640 MVWorkflows.Client.Infrastructure.dll
+08/06/2022  14:51            13ÿ312 MVWorkflows.Domain.dll
+08/06/2022  14:52           390ÿ656 MVWorkflows.Infrastructure.dll
+08/06/2022  15:15             7ÿ680 MVWorkflows.Infrastructure.Shared.dll
+08/06/2022  15:16           120ÿ832 MVWorkflows.Server.dll
+08/06/2022  14:51            27ÿ648 MVWorkflows.Shared.dll
+17/03/2021  20:03           695ÿ336 Newtonsoft.Json.dll
+11/04/2021  16:29           268ÿ800 Polly.dll
+31/03/2019  15:06             6ÿ144 Polly.Extensions.Http.dll
+10/09/2020  02:20           128ÿ000 Serilog.dll
+08/03/2019  21:45             6ÿ656 Serilog.Enrichers.Environment.dll
+03/03/2021  06:26            28ÿ160 Serilog.Extensions.Hosting.dll
+21/08/2019  23:09            15ÿ872 Serilog.Extensions.Logging.dll
+17/10/2019  05:18             8ÿ704 Serilog.Formatting.Compact.dll
+02/06/2019  00:57            47ÿ616 Serilog.Settings.Configuration.dll
+09/06/2019  21:49             9ÿ216 Serilog.Sinks.Async.dll
+22/10/2017  16:48            32ÿ768 Serilog.Sinks.Console.dll
+17/10/2019  05:25            28ÿ160 Serilog.Sinks.File.dll
+30/04/2021  10:51            14ÿ848 Swashbuckle.AspNetCore.Swagger.dll
+30/04/2021  10:51            82ÿ944 Swashbuckle.AspNetCore.SwaggerGen.dll
+30/04/2021  10:51         3ÿ728ÿ896 Swashbuckle.AspNetCore.SwaggerUI.dll
+15/11/2019  08:37           375ÿ912 System.Configuration.ConfigurationManager.dll
+19/07/2017  10:01           237ÿ424 System.Data.SqlClient.dll
+19/10/2020  18:50           173ÿ448 System.Drawing.Common.dll
+30/03/2021  19:39            81ÿ784 System.IdentityModel.Tokens.Jwt.dll
+13/04/2022  17:49            79ÿ512 System.IO.Pipelines.dll
+07/03/2022  19:34           162ÿ304 System.Linq.Dynamic.Core.dll
+15/11/2019  08:37            83ÿ528 System.Runtime.Caching.dll
+15/11/2019  08:37            17ÿ784 System.Security.Cryptography.ProtectedData.dll
+15/11/2019  08:56            92ÿ536 System.Security.Permissions.dll
+15/11/2019  08:56            25ÿ976 System.Windows.Extensions.dll
+18/02/2022  12:24            17ÿ920 Toolbelt.Blazor.HttpClientInterceptor.dll
+             104 fichier(s)       37ÿ649ÿ024 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\BlazorDebugProxy
+
+13/04/2022  17:16            32ÿ408 BrowserDebugHost.dll
+13/04/2022  17:16           309ÿ888 BrowserDebugProxy.dll
+25/07/2020  04:15         5ÿ437ÿ320 Microsoft.CodeAnalysis.CSharp.dll
+25/07/2020  04:15         2ÿ398ÿ080 Microsoft.CodeAnalysis.dll
+09/11/2019  00:56           703ÿ856 Newtonsoft.Json.dll
+               5 fichier(s)        8ÿ881ÿ552 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\ca
+
+18/12/2021  21:07            15ÿ872 Hangfire.Core.resources.dll
+               1 fichier(s)           15ÿ872 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\de
+
+18/12/2021  21:07            15ÿ872 Hangfire.Core.resources.dll
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            22ÿ016 MVWorkflows.Client.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               4 fichier(s)           57ÿ344 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\en
+
+08/06/2022  15:15            32ÿ768 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+08/06/2022  14:52            51ÿ712 MVWorkflows.Client.resources.dll
+08/06/2022  14:52            11ÿ776 MVWorkflows.Infrastructure.resources.dll
+08/06/2022  15:16             5ÿ120 MVWorkflows.Server.resources.dll
+               5 fichier(s)          106ÿ496 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\es
+
+18/12/2021  21:07            16ÿ384 Hangfire.Core.resources.dll
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            25ÿ600 MVWorkflows.Client.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               4 fichier(s)           61ÿ440 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\fa
+
+18/12/2021  21:07            18ÿ432 Hangfire.Core.resources.dll
+               1 fichier(s)           18ÿ432 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\fr
+
+18/12/2021  21:07            17ÿ920 Hangfire.Core.resources.dll
+08/06/2022  15:15            24ÿ576 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            27ÿ648 MVWorkflows.Client.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               4 fichier(s)           73ÿ728 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\id
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            33ÿ280 MVWorkflows.Client.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               3 fichier(s)           52ÿ736 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\it
+
+08/06/2022  15:15            18ÿ944 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            34ÿ304 MVWorkflows.Client.resources.dll
+08/06/2022  14:52            11ÿ264 MVWorkflows.Infrastructure.resources.dll
+               3 fichier(s)           64ÿ512 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\km
+
+08/06/2022  15:15            22ÿ016 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             4ÿ096 MVWorkflows.Client.Infrastructure.resources.dll
+08/06/2022  14:52            41ÿ472 MVWorkflows.Client.resources.dll
+08/06/2022  14:52            12ÿ800 MVWorkflows.Infrastructure.resources.dll
+               4 fichier(s)           80ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\nb
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\nl
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\pt
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\pt-BR
+
+18/12/2021  21:07            16ÿ384 Hangfire.Core.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\pt-PT
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\ru
+
+08/06/2022  15:15            23ÿ552 MVWorkflows.Application.resources.dll
+08/06/2022  14:52             5ÿ120 MVWorkflows.Client.Infrastructure.resources.dll
+08/06/2022  14:52            48ÿ128 MVWorkflows.Client.resources.dll
+08/06/2022  14:52            13ÿ824 MVWorkflows.Infrastructure.resources.dll
+08/06/2022  15:16             5ÿ120 MVWorkflows.Server.resources.dll
+               5 fichier(s)           95ÿ744 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0
+
+19/10/2020  18:49           419ÿ208 System.Drawing.Common.dll
+               1 fichier(s)          419ÿ208 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1
+
+20/09/2021  23:59         1ÿ403ÿ344 Microsoft.Data.SqlClient.dll
+               1 fichier(s)        1ÿ403ÿ344 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0
+
+19/07/2017  10:01           833ÿ904 System.Data.SqlClient.dll
+               1 fichier(s)          833ÿ904 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0
+
+19/10/2020  18:52            52ÿ104 Microsoft.Win32.SystemEvents.dll
+19/10/2020  18:53           437ÿ128 System.Drawing.Common.dll
+15/11/2019  08:54            56ÿ184 System.Windows.Extensions.dll
+               3 fichier(s)          545ÿ416 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1
+
+20/09/2021  23:59         1ÿ486ÿ304 Microsoft.Data.SqlClient.dll
+               1 fichier(s)        1ÿ486ÿ304 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0
+
+19/07/2017  10:01           883ÿ568 System.Data.SqlClient.dll
+15/11/2019  08:53            86ÿ088 System.Runtime.Caching.dll
+15/11/2019  08:53            25ÿ464 System.Security.Cryptography.ProtectedData.dll
+               3 fichier(s)          995ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\win-arm\native
+
+20/10/2020  18:13           463ÿ752 Microsoft.Data.SqlClient.SNI.dll
+               1 fichier(s)          463ÿ752 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\win-arm64\native
+
+20/10/2020  18:13           609ÿ160 Microsoft.Data.SqlClient.SNI.dll
+04/01/2020  08:12           174ÿ224 sni.dll
+               2 fichier(s)          783ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\win-x64\native
+
+20/10/2020  18:13           510ÿ856 Microsoft.Data.SqlClient.SNI.dll
+04/01/2020  08:12           160ÿ040 sni.dll
+               2 fichier(s)          670ÿ896 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\runtimes\win-x86\native
+
+20/10/2020  18:13           440ÿ704 Microsoft.Data.SqlClient.SNI.dll
+04/01/2020  08:12           136ÿ488 sni.dll
+               2 fichier(s)          577ÿ192 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\sv
+
+08/06/2022  15:15            15ÿ872 MVWorkflows.Application.resources.dll
+08/06/2022  14:52            36ÿ352 MVWorkflows.Client.resources.dll
+08/06/2022  14:52             3ÿ584 MVWorkflows.Infrastructure.resources.dll
+               3 fichier(s)           55ÿ808 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\tr-TR
+
+18/12/2021  21:07            17ÿ408 Hangfire.Core.resources.dll
+               1 fichier(s)           17ÿ408 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\zh
+
+18/12/2021  21:07            16ÿ384 Hangfire.Core.resources.dll
+               1 fichier(s)           16ÿ384 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\bin\Debug\net6.0\zh-TW
+
+18/12/2021  21:07            15ÿ360 Hangfire.Core.resources.dll
+               1 fichier(s)           15ÿ360 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\obj\Debug\net5.0
+
+02/06/2022  13:47           119ÿ296 MVWorkflows.Server.dll
+               1 fichier(s)          119ÿ296 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\obj\Debug\net5.0\en
+
+02/06/2022  13:47             5ÿ120 MVWorkflows.Server.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\obj\Debug\net5.0\ref
+
+02/06/2022  13:47            44ÿ032 MVWorkflows.Server.dll
+               1 fichier(s)           44ÿ032 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\obj\Debug\net5.0\ru
+
+02/06/2022  13:47             5ÿ120 MVWorkflows.Server.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\obj\Debug\net6.0
+
+08/06/2022  15:16           120ÿ832 MVWorkflows.Server.dll
+               1 fichier(s)          120ÿ832 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\obj\Debug\net6.0\en
+
+08/06/2022  15:16             5ÿ120 MVWorkflows.Server.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\obj\Debug\net6.0\ref
+
+08/06/2022  14:52            44ÿ032 MVWorkflows.Server.dll
+               1 fichier(s)           44ÿ032 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\obj\Debug\net6.0\refint
+
+08/06/2022  15:16            44ÿ032 MVWorkflows.Server.dll
+               1 fichier(s)           44ÿ032 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server\obj\Debug\net6.0\ru
+
+08/06/2022  15:16             5ÿ120 MVWorkflows.Server.resources.dll
+               1 fichier(s)            5ÿ120 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\bin\Debug\net5.0
+
+04/06/2022  02:34            27ÿ648 MVWorkflows.Shared.dll
+               1 fichier(s)           27ÿ648 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\bin\Debug\net6.0
+
+08/06/2022  14:51            27ÿ648 MVWorkflows.Shared.dll
+               1 fichier(s)           27ÿ648 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net5.0
+
+04/06/2022  02:34            27ÿ648 MVWorkflows.Shared.dll
+               1 fichier(s)           27ÿ648 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net5.0\ref
+
+04/06/2022  02:34            24ÿ064 MVWorkflows.Shared.dll
+               1 fichier(s)           24ÿ064 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net5.0\refint
+
+04/06/2022  02:34            24ÿ064 MVWorkflows.Shared.dll
+               1 fichier(s)           24ÿ064 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0
+
+08/06/2022  14:51            27ÿ648 MVWorkflows.Shared.dll
+               1 fichier(s)           27ÿ648 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\ref
+
+08/06/2022  14:51            23ÿ552 MVWorkflows.Shared.dll
+               1 fichier(s)           23ÿ552 octets
+
+ R‚pertoire de C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\refint
+
+08/06/2022  14:51            23ÿ552 MVWorkflows.Shared.dll
+               1 fichier(s)           23ÿ552 octets
+
+     Total des fichiers list‚sÿ:
+            1471 fichier(s)      223ÿ994ÿ848 octets
+               0 R‚p(s)  14ÿ603ÿ354ÿ112 octets libres

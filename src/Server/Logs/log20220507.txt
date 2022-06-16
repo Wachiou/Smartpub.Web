@@ -1,0 +1,8 @@
+2022-05-07 00:42:02.895 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-07 00:42:02.985 +00:00 [INF] Hosting environment: Development
+2022-05-07 00:42:02.988 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-07 00:45:48.997 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-07 00:45:49.083 +00:00 [INF] Hosting environment: Development
+2022-05-07 00:45:49.087 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-07 17:42:04.707 +00:00 [WRN] Server inflpt004:73348:cc684aea was considered dead by other servers, restarting...
+2022-05-07 17:42:04.804 +00:00 [WRN] Server inflpt004:73348:cc684aea stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.

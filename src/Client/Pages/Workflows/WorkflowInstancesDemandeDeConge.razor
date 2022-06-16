@@ -1,0 +1,116 @@
+﻿@page "/workflows/WorkflowInstancesDemandeDeConge"
+
+ <MudGrid>
+        <MudItem xs="12" sm="6" md="4" lg="3" xl="3">
+            <MudPaper Elevation="25" Class="d-flex flex-row pt-6 pb-4" Style="height:100px;">
+                <MudIcon Icon="@CustomIcons.ResteAnneePassee" Color="Color.Primary" Class="mx-4" Style="width:54px; height:54px;"></MudIcon>
+                <div>
+                    <MudText Typo="Typo.subtitle1" Class="mud-text-secondary mb-n1">Disponible avant l'année en cours.</MudText>
+                    <MudText Typo="Typo.h5">30</MudText>
+                </div>
+            </MudPaper>
+        </MudItem>
+        <MudItem xs="12" sm="6" md="4" lg="3" xl="3">
+            <MudPaper Elevation="25" Class="d-flex flex-row pt-6 pb-4" Style="height:100px;">
+                <MudIcon Icon="@CustomIcons.GagnerAnneeEnCours" Color="Color.Secondary" Class="mx-4" Style="width:54px; height:54px;"></MudIcon>
+                <div>
+                    <MudText Typo="Typo.subtitle1" Class="mud-text-secondary mb-n1">Gagné au cours de l''année en cours.</MudText>
+                    <MudText Typo="Typo.h5">12</MudText>
+                </div>
+            </MudPaper>
+        </MudItem>
+        <MudItem xs="12" sm="6" md="4" lg="3" xl="3">
+            <MudPaper Elevation="25" Class="d-flex flex-row pt-6 pb-4" Style="height:100px;">
+                <MudIcon Icon="@CustomIcons.UtiliserAnneeEnCours" Color="Color.Primary" Class="mx-4" Style="width:54px; height:54px;"></MudIcon>
+                <div>
+                    <MudText Typo="Typo.subtitle1" Class="mud-text-secondary mb-n1">Pris au cours de l''année en cours.</MudText>
+                    <MudText Typo="Typo.h5">10</MudText>
+                </div>
+            </MudPaper>
+        </MudItem>
+        <MudItem xs="12" sm="6" md="4" lg="3" xl="3">
+            <MudPaper Elevation="25" Class="d-flex flex-row pt-6 pb-4" Style="height:100px;">
+                <MudIcon Icon="@CustomIcons.SoldeConge" Color="Color.Secondary" Class="mx-4" Style="width:54px; height:54px;"></MudIcon>
+                <div>
+                    <MudText Typo="Typo.subtitle1" Class="mud-text-secondary mb-n1">Solde congé actuel. </MudText>
+                    <MudText Typo="Typo.h5">32</MudText>
+                </div>
+            </MudPaper>
+        </MudItem>
+        @*<MudItem xs="12" sm="6" md="3">
+            <MudPaper Elevation="25" Class="Class="rounded-circle ma-2"" Style="height:100px;">
+                <MudIcon Icon="@Icons.Material.Filled.Assignment" Color="Color.Error" Class="mx-4" Style="width:54px; height:54px;"></MudIcon>
+                <div>
+                    <MudText Typo="Typo.subtitle1" Class="mud-text-secondary mb-n1">20</MudText>
+                    <MudText Typo="Typo.h5">test circulaire</MudText>
+                </div>
+            </MudPaper>
+        </MudItem>*@
+       
+    </MudGrid>
+
+<MudTimeline>
+    <MudTimelineItem Color="Color.Warning" Size="Size.Small">
+        <ItemOpposite>
+            <MudText Color="Color.Warning" Typo="Typo.h6">18/05/2022</MudText>
+        </ItemOpposite>
+        <ItemContent>            
+            <MudCard Outlined="true" Elevation="25">
+            <MudCardContent>
+            <MudText Color="Color.Warning" Typo="Typo.h5" GutterBottom="true">Tabhiret abdellah</MudText>                        
+            <MudText Typo="Typo.body2">Accordée.</MudText>
+            </MudCardContent>
+        </MudCard>
+        </ItemContent>
+    </MudTimelineItem>
+    <MudTimelineItem Color="Color.Success" Size="Size.Small">
+        <ItemOpposite>
+            <MudText Color="Color.Success" Typo="Typo.h6">15/05/2022</MudText>
+        </ItemOpposite>
+        <ItemContent>
+            <MudCard Outlined="true" Elevation="25">
+            <MudCardContent> 
+            <MudText Color="Color.Success" Typo="Typo.h5" GutterBottom="true">Agouti Wachiou</MudText>
+            <MudText Typo="Typo.body2">Ok, pour les 2 semaines, mais s'assurer de finalizer la digitalisation du workflow avant le départ.</MudText>
+            </MudCardContent>
+        </MudCard>
+        </ItemContent>
+    </MudTimelineItem>
+    <MudTimelineItem Color="Color.Success" Size="Size.Small">
+        <ItemOpposite>
+            <MudText Color="Color.Success" Typo="Typo.h6">12/05/2022</MudText>
+        </ItemOpposite>
+        <ItemContent>
+            <MudCard Outlined="true" Elevation="25">
+            <MudCardContent>
+                <MudText Typo="Typo.h5" Color="Color.Success">Hamza Laftit</MudText>
+                <MudText Typo="Typo.body2">Besoin de prendre 2 semaines pour régler une urgence familliale.</MudText>
+                <MudText Typo="Typo.body2">Pas de crainte de non respesct de délai sur la digitalisation d  es workflows.</MudText>
+            </MudCardContent>
+        </MudCard>
+        </ItemContent>
+    </MudTimelineItem>
+</MudTimeline>
+
+<MudGrid>
+        <MudItem xs="12" sm="6" md="4" lg="3" xl="3">
+            <MudText Color="Color.Dark" Typo="Typo.h5" GutterBottom="true">Date debut</MudText> 
+            <MudDatePicker Label="Date debut" PickerVariant="PickerVariant.Static" Rounded="true" Elevation="25" Date="@(DateTime.Today.AddDays(1))" />
+        </MudItem>
+       
+        <MudItem xs="12" sm="6" md="4" lg="3" xl="3">
+            <MudText Color="Color.Dark" Typo="Typo.h5" GutterBottom="true">Date fin</MudText> 
+           <MudDatePicker Label="Date fin" PickerVariant="PickerVariant.Static" Rounded="true" Elevation="25" Date="@(DateTime.Today.AddDays(1))" />
+        </MudItem>
+        <MudItem xs="12" sm="6" md="4" lg="3" xl="3">
+            <MudText Color="Color.Dark" Typo="Typo.h5" GutterBottom="true">Nombre de jour demandé</MudText> 
+            @*<MudPaper Elevation="25" Align="Align.Center" Class="align-self-stretch d-flex flex-row pt-6 pb-4" Style="height:100px;" >
+                <MudText Typo="Typo.h1" Class="align-self-stretch" FontSize = "3.25rem" Color="Color.Success">99</MudText>
+            </MudPaper>*@
+             <MudText Typo="Typo.h1" Class="align-self-stretch" Color="Color.Success">25</MudText>
+        </MudItem>
+        <MudItem xs="12" sm="6" md="4" lg="3" xl="3">               
+            <MudText Color="Color.Dark" Typo="Typo.h5" GutterBottom="true">       </MudText> 
+               <MudButton Variant="Variant.Filled" Class="absolute object-right-bottom" Color="Color.Primary">Initier</MudButton>            
+        </MudItem>
+</MudGrid>

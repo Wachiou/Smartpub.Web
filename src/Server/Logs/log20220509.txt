@@ -1,0 +1,120 @@
+2022-05-09 10:36:56.751 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 10:36:56.844 +00:00 [INF] Hosting environment: Development
+2022-05-09 10:36:56.847 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 11:03:48.265 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 11:03:48.350 +00:00 [INF] Hosting environment: Development
+2022-05-09 11:03:48.354 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 11:04:06.071 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The response headers cannot be modified because the response has already started.
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.ThrowIfReadOnly()
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.set_Item(String key, StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at MVWorkflows.Server.Middlewares.ErrorHandlerMiddleware.Invoke(HttpContext context) in C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server\Middlewares\ErrorHandlerMiddleware.cs:line 30
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-09 11:04:06.071 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The response headers cannot be modified because the response has already started.
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.ThrowIfReadOnly()
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.set_Item(String key, StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at MVWorkflows.Server.Middlewares.ErrorHandlerMiddleware.Invoke(HttpContext context) in C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server\Middlewares\ErrorHandlerMiddleware.cs:line 30
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-09 11:04:06.387 +00:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: The response headers cannot be modified because the response has already started.
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.ThrowIfReadOnly()
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.set_Item(String key, StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at MVWorkflows.Server.Middlewares.ErrorHandlerMiddleware.Invoke(HttpContext context) in C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server\Middlewares\ErrorHandlerMiddleware.cs:line 30
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-05-09 11:04:06.551 +00:00 [ERR] Connection ID "17582052968339865695", Request ID "80000060-0005-f400-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: The response headers cannot be modified because the response has already started.
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.ThrowIfReadOnly()
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.set_Item(String key, StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at MVWorkflows.Server.Middlewares.ErrorHandlerMiddleware.Invoke(HttpContext context) in C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server\Middlewares\ErrorHandlerMiddleware.cs:line 30
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2022-05-09 11:04:06.551 +00:00 [ERR] Connection ID "17149707412702232669", Request ID "8000005e-0007-ee00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: The response headers cannot be modified because the response has already started.
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.ThrowIfReadOnly()
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.set_Item(String key, StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at MVWorkflows.Server.Middlewares.ErrorHandlerMiddleware.Invoke(HttpContext context) in C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server\Middlewares\ErrorHandlerMiddleware.cs:line 30
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2022-05-09 11:04:06.551 +00:00 [ERR] Connection ID "17221764989560291360", Request ID "80000021-0003-ef00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: The response headers cannot be modified because the response has already started.
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.ThrowIfReadOnly()
+   at Microsoft.AspNetCore.HttpSys.Internal.HeaderCollection.set_Item(String key, StringValues value)
+   at Microsoft.AspNetCore.Http.DefaultHttpResponse.set_ContentType(String value)
+   at MVWorkflows.Server.Middlewares.ErrorHandlerMiddleware.Invoke(HttpContext context) in C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server\Middlewares\ErrorHandlerMiddleware.cs:line 30
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2022-05-09 11:12:41.488 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 11:12:41.584 +00:00 [INF] Hosting environment: Development
+2022-05-09 11:12:41.589 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 11:15:15.590 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 11:15:15.694 +00:00 [INF] Hosting environment: Development
+2022-05-09 11:15:15.698 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 11:18:55.628 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 11:18:55.733 +00:00 [INF] Hosting environment: Development
+2022-05-09 11:18:55.738 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 11:49:20.945 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 11:49:21.053 +00:00 [INF] Hosting environment: Development
+2022-05-09 11:49:21.058 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 11:55:54.937 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 11:55:55.047 +00:00 [INF] Hosting environment: Development
+2022-05-09 11:55:55.057 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 12:43:19.809 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 12:43:19.955 +00:00 [INF] Hosting environment: Development
+2022-05-09 12:43:19.961 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 14:40:21.533 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 14:40:21.658 +00:00 [INF] Hosting environment: Development
+2022-05-09 14:40:21.664 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 14:44:11.166 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 14:44:11.313 +00:00 [INF] Hosting environment: Development
+2022-05-09 14:44:11.316 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 14:49:01.336 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 14:49:01.464 +00:00 [INF] Hosting environment: Development
+2022-05-09 14:49:01.472 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 14:49:49.311 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 14:49:49.462 +00:00 [INF] Hosting environment: Development
+2022-05-09 14:49:49.465 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 14:51:28.749 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 14:51:28.846 +00:00 [INF] Hosting environment: Development
+2022-05-09 14:51:28.850 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 14:54:35.393 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 14:54:35.479 +00:00 [INF] Hosting environment: Development
+2022-05-09 14:54:35.482 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 15:22:19.715 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 15:22:19.806 +00:00 [INF] Hosting environment: Development
+2022-05-09 15:22:19.811 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 16:31:10.309 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 16:31:10.419 +00:00 [INF] Hosting environment: Development
+2022-05-09 16:31:10.422 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 16:32:56.790 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 16:32:56.892 +00:00 [INF] Hosting environment: Development
+2022-05-09 16:32:56.897 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 16:34:24.167 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 16:34:24.277 +00:00 [INF] Hosting environment: Development
+2022-05-09 16:34:24.282 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 16:35:12.715 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 16:35:12.849 +00:00 [INF] Hosting environment: Development
+2022-05-09 16:35:12.851 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 16:36:34.635 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 16:36:34.734 +00:00 [INF] Hosting environment: Development
+2022-05-09 16:36:34.738 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 16:37:32.257 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 16:37:32.353 +00:00 [INF] Hosting environment: Development
+2022-05-09 16:37:32.356 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server
+2022-05-09 16:38:43.082 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-05-09 16:38:43.188 +00:00 [INF] Hosting environment: Development
+2022-05-09 16:38:43.192 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkflows\src\Server

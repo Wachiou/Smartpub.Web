@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kagouti.MOOV-AFRICA\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kagouti.MOOV-AFRICA\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

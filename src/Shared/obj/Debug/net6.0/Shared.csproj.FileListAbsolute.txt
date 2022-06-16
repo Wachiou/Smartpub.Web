@@ -1,0 +1,12 @@
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\bin\Debug\net6.0\MVWorkflows.Shared.deps.json
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\bin\Debug\net6.0\MVWorkflows.Shared.dll
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\bin\Debug\net6.0\MVWorkflows.Shared.pdb
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\Shared.csproj.AssemblyReference.cache
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\MVWorkflows.Shared.dll
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\refint\MVWorkflows.Shared.dll
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\MVWorkflows.Shared.pdb
+C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Shared\obj\Debug\net6.0\ref\MVWorkflows.Shared.dll

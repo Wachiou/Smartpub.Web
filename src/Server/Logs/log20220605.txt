@@ -1,0 +1,76 @@
+2022-06-05 00:00:35.175 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 00:00:35.259 +00:00 [INF] Hosting environment: Development
+2022-06-05 00:00:35.262 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 06:03:38.587 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 06:03:39.016 +00:00 [INF] Hosting environment: Development
+2022-06-05 06:03:39.027 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 07:08:59.969 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 07:09:00.249 +00:00 [INF] Hosting environment: Development
+2022-06-05 07:09:00.255 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 07:14:58.947 +00:00 [INF] Application is shutting down...
+2022-06-05 07:42:12.481 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 07:42:12.532 +00:00 [INF] Hosting environment: Development
+2022-06-05 07:42:12.534 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 08:24:06.847 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 08:24:07.103 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 08:24:07.107 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 08:24:07.108 +00:00 [INF] Hosting environment: Development
+2022-06-05 08:24:07.109 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 08:49:19.796 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 08:49:19.857 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 08:49:19.861 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 08:49:19.861 +00:00 [INF] Hosting environment: Development
+2022-06-05 08:49:19.862 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 08:50:49.293 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 08:50:49.385 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 08:50:49.390 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 08:50:49.391 +00:00 [INF] Hosting environment: Development
+2022-06-05 08:50:49.392 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 09:24:20.157 +00:00 [WRN] Stopping the server due to DomainUnload or ProcessExit event...
+2022-06-05 09:24:20.161 +00:00 [WRN] Server inflpt004:35480:7dc3e8c9 caught shutdown signal...
+2022-06-05 09:24:20.164 +00:00 [WRN] Server inflpt004:35480:7dc3e8c9 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+2022-06-05 09:40:36.644 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 09:40:36.705 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 09:40:36.710 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 09:40:36.713 +00:00 [INF] Hosting environment: Development
+2022-06-05 09:40:36.714 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 10:39:05.619 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 10:39:05.667 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 10:39:05.672 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 10:39:05.673 +00:00 [INF] Hosting environment: Development
+2022-06-05 10:39:05.674 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 11:26:10.445 +00:00 [INF] Application is shutting down...
+2022-06-05 11:53:02.147 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 11:53:02.287 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 11:53:02.292 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 11:53:02.294 +00:00 [INF] Hosting environment: Development
+2022-06-05 11:53:02.295 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 12:02:18.137 +00:00 [WRN] Stopping the server due to DomainUnload or ProcessExit event...
+2022-06-05 12:02:18.142 +00:00 [WRN] Server inflpt004:100784:e24727e5 caught shutdown signal...
+2022-06-05 12:02:18.145 +00:00 [WRN] Server inflpt004:100784:e24727e5 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+2022-06-05 12:03:16.617 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 12:03:16.665 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 12:03:16.671 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 12:03:16.672 +00:00 [INF] Hosting environment: Development
+2022-06-05 12:03:16.673 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 12:16:04.705 +00:00 [WRN] Stopping the server due to DomainUnload or ProcessExit event...
+2022-06-05 12:16:04.708 +00:00 [WRN] Server inflpt004:119460:abe1eb44 caught shutdown signal...
+2022-06-05 12:16:04.709 +00:00 [WRN] Server inflpt004:119460:abe1eb44 stopped non-gracefully due to ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, SqlServerHeartbeatProcess, Worker, DelayedJobScheduler, RecurringJobScheduler. Outstanding work on those dispatchers could be aborted, and there can be delays in background processing. This server instance will be incorrectly shown as active for a while. To avoid non-graceful shutdowns, investigate what prevents from stopping gracefully and add CancellationToken support for those methods.
+2022-06-05 12:19:45.777 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 12:19:46.037 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 12:19:46.042 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 12:19:46.044 +00:00 [INF] Hosting environment: Development
+2022-06-05 12:19:46.044 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 12:31:18.454 +00:00 [INF] Application is shutting down...
+2022-06-05 12:32:45.777 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 12:32:46.244 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 12:32:46.250 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 12:32:46.252 +00:00 [INF] Hosting environment: Development
+2022-06-05 12:32:46.253 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 12:53:58.130 +00:00 [INF] Application is shutting down...
+2022-06-05 12:55:28.330 +00:00 [INF] Now listening on: https://localhost:5001
+2022-06-05 12:55:28.442 +00:00 [INF] Now listening on: http://localhost:5000
+2022-06-05 12:55:28.448 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-06-05 12:55:28.449 +00:00 [INF] Hosting environment: Development
+2022-06-05 12:55:28.450 +00:00 [INF] Content root path: C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Server
+2022-06-05 13:37:48.780 +00:00 [INF] Application is shutting down...

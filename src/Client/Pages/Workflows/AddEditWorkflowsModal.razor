@@ -1,0 +1,93 @@
+﻿@inject Microsoft.Extensions.Localization.IStringLocalizer<AddEditWorkflowsModal> _localizer
+
+<EditForm Model="@AddEditWorkflowsModel" OnValidSubmit="SaveAsync">
+    <FluentValidationValidator @ref="_fluentValidationValidator" />
+    <MudDialog>
+        <TitleContent>
+            @{
+                if (AddEditWorkflowsModel.Id == 0)
+                {
+                    <MudText Typo="Typo.h6">
+                        <MudIcon Icon="@Icons.Material.Filled.Add" Class="mr-3 mb-n1" />
+                        @_localizer["Add Workflows"]
+                    </MudText>
+                }
+                else
+                {
+                    <MudText Typo="Typo.h6">
+                        <MudIcon Icon="@Icons.Material.Filled.Update" Class="mr-3 mb-n1" />
+                        @_localizer["Update Workflows"]
+                    </MudText>
+                }
+            }
+        </TitleContent>
+        <DialogContent>
+            <MudGrid>
+                @if (AddEditWorkflowsModel.Id != 0)
+                {
+                    <MudItem xs="12" md="6">
+                        <MudTextField Disabled For="@(() => AddEditWorkflowsModel.Id)" @bind-Value="AddEditWorkflowsModel.Id" Label="@_localizer["Id"]" />
+                    </MudItem>
+                }
+                <MudItem xs="12" md="6">
+                    <MudTextField For="@(() => AddEditWorkflowsModel.NomWorkflow)" @bind-Value="AddEditWorkflowsModel.NomWorkflow" Label="@_localizer["Nom du Workflow"]" />
+                </MudItem>
+                <MudItem xs="12" md="6">
+                    <MudTextField For="@(() => AddEditWorkflowsModel.DescriptionWorkflow)" @bind-Value="AddEditWorkflowsModel.DescriptionWorkflow" Label="@_localizer["Description du Workflow"]" />
+                </MudItem>
+                <MudItem xs="12" md="6">
+                    <MudAutocomplete T="string" Label="@_localizer["Responsable du Workflow"]" For="@(() => AddEditWorkflowsModel.WorkflowOwnerUserID)" @bind-Value="AddEditWorkflowsModel.WorkflowOwnerUserID" ResetValueOnEmptyText="true" SearchFunc="@SearchUsers" Variant="Variant.Filled" ToStringFunc="@(i => _users.FirstOrDefault(b => b.Id == i)?.UserName ?? string.Empty)" OffsetY="true" />
+                </MudItem>
+                <MudItem xs="12" md="6">
+                    <MudTextField For="@(() => AddEditWorkflowsModel.TitleWorkflow)" @bind-Value="AddEditWorkflowsModel.TitleWorkflow" Label="@_localizer["Titre du Workflow"]" />
+                </MudItem>
+                <MudItem xs="12" md="6">
+                    <MudItem>
+                        <MudAvatar Image="@(AddEditWorkflowsModel.WorkflowImageUrl)" Square="true" Style="height: auto; width: auto; max-height: 100%"> </MudAvatar>
+                    </MudItem>
+                    <MudItem>
+                        <InputFile id="fileInput" hidden OnChange="UploadFiles" />
+                        <div>
+                            <MudButton HtmlTag="label"
+                                       Variant="Variant.Text"
+                                       Color="Color.Primary"
+                                       Size="Size.Small"
+                                       StartIcon="@Icons.Filled.CloudUpload"
+                                       for="fileInput">
+                                @_localizer["Upload"]
+                            </MudButton>
+                            @if (!string.IsNullOrEmpty(AddEditWorkflowsModel.WorkflowImageUrl))
+                            {
+                                <MudButton Variant="Variant.Text"
+                                           Color="Color.Info"
+                                           StartIcon="@Icons.Filled.RemoveRedEye"
+                                           Size="Size.Small"
+                                           Link="@(AddEditWorkflowsModel.WorkflowImageUrl)" Target="_blank">
+                                    @_localizer["Voir"]
+                                </MudButton>
+                                <MudButton Variant="Variant.Text"
+                                           Color="Color.Error"
+                                           StartIcon="@Icons.Filled.Delete"
+                                           Size="Size.Small"
+                                           OnClick="DeleteAsync">
+                                    @_localizer["Supprimer"]
+                                </MudButton>
+                            }
+                        </div>
+                    </MudItem>
+                </MudItem>
+            </MudGrid>
+        </DialogContent>
+        <DialogActions>
+            <MudButton DisableElevation Variant="Variant.Filled" OnClick="Cancel">@_localizer["Annuler"]</MudButton>
+            @if (AddEditWorkflowsModel.Id != 0)
+            {
+                <MudButton DisableElevation Variant="Variant.Filled" ButtonType="ButtonType.Submit" Disabled="@(!Validated)" Color="Color.Secondary">@_localizer["Mettre à jour"]</MudButton>
+            }
+            else
+            {
+                <MudButton DisableElevation Variant="Variant.Filled" ButtonType="ButtonType.Submit" Disabled="@(!Validated)" Color="Color.Success">@_localizer["Enregistré"]</MudButton>
+            }
+        </DialogActions>
+    </MudDialog>
+</EditForm>

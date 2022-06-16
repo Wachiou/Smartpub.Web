@@ -1,0 +1,199 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = MVWorkflows.Client
+build_property.RootNamespace = MVWorkflows.Client
+build_property.ProjectDir = C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\kagouti.MOOV-AFRICA\source\repos\MVWorkFlows\src\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Authentication/Login.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Authentication/Register.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aGVudGljYXRpb25cUmVnaXN0ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Catalog/AddEditBrandModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0YWxvZ1xBZGRFZGl0QnJhbmRNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Catalog/AddEditProductModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0YWxvZ1xBZGRFZGl0UHJvZHVjdE1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Catalog/Brands.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0YWxvZ1xCcmFuZHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Catalog/Products.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2F0YWxvZ1xQcm9kdWN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Communication/Chat.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tbXVuaWNhdGlvblxDaGF0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Content/Dashboard.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxEYXNoYm9hcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Content/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/Account.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcQWNjb3VudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/Forgot.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcRm9yZ290LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/Profile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcUHJvZmlsZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/RegisterUserModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcUmVnaXN0ZXJVc2VyTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/Reset.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcUmVzZXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/RoleModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcUm9sZU1vZGFsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/RolePermissions.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcUm9sZVBlcm1pc3Npb25zLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/Roles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcUm9sZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/Security.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcU2VjdXJpdHkucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/UserProfile.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcVXNlclByb2ZpbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/UserRoles.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcVXNlclJvbGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Identity/Users.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWRlbnRpdHlcVXNlcnMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Misc/AddEditDocumentModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzY1xBZGRFZGl0RG9jdW1lbnRNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Misc/AddEditDocumentTypeModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzY1xBZGRFZGl0RG9jdW1lbnRUeXBlTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Misc/DocumentStore.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzY1xEb2N1bWVudFN0b3JlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Misc/DocumentTypes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzY1xEb2N1bWVudFR5cGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Misc/ExtendedAttribute/DocumentExtendedAttributes.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWlzY1xFeHRlbmRlZEF0dHJpYnV0ZVxEb2N1bWVudEV4dGVuZGVkQXR0cmlidXRlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Utilities/AuditTrails.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXRpbGl0aWVzXEF1ZGl0VHJhaWxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Workflows/AddEditWorkflowsModal.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya2Zsb3dzXEFkZEVkaXRXb3JrZmxvd3NNb2RhbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Workflows/WorkflowInstancesDemandeDeConge.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya2Zsb3dzXFdvcmtmbG93SW5zdGFuY2VzRGVtYW5kZURlQ29uZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Pages/Workflows/Workflows.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya2Zsb3dzXFdvcmtmbG93cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Components/AddEditExtendedAttributeModal.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcQWRkRWRpdEV4dGVuZGVkQXR0cmlidXRlTW9kYWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Components/ExtendedAttributes.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcRXh0ZW5kZWRBdHRyaWJ1dGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Components/ExtendedAttributesBase.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcRXh0ZW5kZWRBdHRyaWJ1dGVzQmFzZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Components/HeroTitle.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcSGVyb1RpdGxlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Components/LanguageSelector.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcTGFuZ3VhZ2VTZWxlY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Components/TablePager.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcVGFibGVQYWdlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Components/UserCard.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbXBvbmVudHNcVXNlckNhcmQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Dialogs/DeleteConfirmation.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERpYWxvZ3NcRGVsZXRlQ29uZmlybWF0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Dialogs/Logout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERpYWxvZ3NcTG9nb3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVycm9yLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/Shared/NotFoundLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5vdEZvdW5kTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/kagouti.MOOV-AFRICA/source/repos/MVWorkFlows/src/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
